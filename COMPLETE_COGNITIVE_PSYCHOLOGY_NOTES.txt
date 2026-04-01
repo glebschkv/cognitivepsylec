@@ -1,0 +1,5452 @@
+================================================================================
+COGNITIVE PSYCHOLOGY - COMPLETE LECTURE NOTES & SLIDES
+Combined from all PDFs and lecture notes
+================================================================================
+
+
+================================================================================
+  LECTURE 1 - What is Cognitive Psychology
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: Lecture 1 What is cognitive psychology_2026_updated(1) - Tagged.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+Introduction to Psychology 1
+Cognitive Psychology – lecture 1
+Dr Soazig Casteau
+Soazig.casteau@durham.ac.uk
+
+--- Slide/Page 2 ---
+Your learning tools
+• Text book
+Quinlan & Dyson, Cognitive Psychology
+Eysenk & Keane, Cognitive Psychology a Students 
+Handbook
+ 
+ 
+• Lecture slides
+Blue boxes: Suggested further reading. No exam 
+question will be on these readings
+• In-class activities – Poll Everywhere
+• Test yourself slides
+Learning outcome slides
+Describe and interpret the evidence slides
+
+--- Slide/Page 3 ---
+Cognitive Psychology Block – weeks 16 to 20
+1.
+What is Cognitive Psychology?
+2.
+Selective Attention 
+3.
+Early & Late Selection 
+4.
+Resource Theories of Attention 
+5.
+Mental Imagery 
+6.
+Problem Solving 
+7.
+Creativity 
+8.
+Decision making 
+9.
+Revision lecture for class test
+10. Class test 
+What’s on the menu?
+
+--- Slide/Page 4 ---
+Let’s go back in time… 
+Wilhelm 
+Wundt & 
+Structuralism
+The Father of 
+Psychology 
+William James 
+& 
+Functionalism
+1890
+Koffka, Kohler & the 
+Gestalt Approach
+Watson, 
+Skinner & 
+Behaviourism: 
+1900’s-50’s
+Freud, Adler, Jung & 
+the Psychodynamic 
+approach
+1879
+Cognitive 
+Psychology: 
+Information 
+Processing Approach
+1950’s- 90’s
+Cognitive 
+Neuroscience
+2000….
+
+--- Slide/Page 5 ---
+What is Cognitive Psychology?
+
+--- Slide/Page 6 ---
+What is Cognitive Psychology?
+Understand the mental processes that allow us to make sense of our 
+environment, decide how react to the environment and implement those 
+decisions. 
+Generate descriptions of how these mental processes function: typically a 
+flow chart
+What about the brain? 
+• Useful to understand the brain, but understanding the brain doesn’t 
+necessarily produce insights into the mind…
+
+--- Slide/Page 7 ---
+The Mind/Body problem
+Type Identity Theory
+A mental state is 
+equivalent to a specific 
+pattern of neural events
+2 brains 
+problem 
+(Searle 1994)
+Token Identity Theory
+A mental state maps onto 
+variety of different neural 
+events
+But if Token theory is true, 
+can knowledge of neural 
+events ever help us 
+understand mental events? 
+Functionalism 
+Draws a distinction between 
+1. Structure of a mental state (the 
+neural activity) 
+2. Function of  a mental state (the 
+consequences of the mental 
+state, e.g. behaviours or new 
+mental states)
+Cognitive psychology is about 
+developing  a functional 
+explanation of mental processes.
+
+--- Slide/Page 8 ---
+Information Processing Analogy
+Human cognition can be conceptualised as a flow of information or 
+‘signals’
+If cognition is the processing of 
+signals, psychologists can measure 
+cognition by measuring signal 
+processing, e.g. 
+How much signal is needed to detect and 
+identify a stimulus? (redundancy)
+How long does it take to detect or 
+identify a stimulus? (reaction time)
+How many signals can be processed 
+simultaneously? (capacity)
+Allowed psychologists to operationalise and measure abstract 
+concepts such as attention, memory, perception, planning, reasoning, 
+motivation etc
+
+--- Slide/Page 9 ---
+The computational metaphor of the mind
+Input 
+Systems
+Information Processing Operations (software)
+Memory 
+Store
+Output 
+Systems
+Brains are like computer hardware, 
+cognition is software? (Searle 1994)​
+Sensory inputs transformed into an 
+internal code ('internal representations')
+Mental processes for processing these 
+internal representations  ('operations')
+Limited capacity for running mental 
+operations 
+Can store internal representations in a 
+long-term memory and retrieve them for 
+comparison with new inputs
+Output via motor control system 
+(speech, action)
+
+--- Slide/Page 10 ---
+Assumptions 
+• The mind contains symbolic representations 
+(‘internal’ or ‘stimulus’ representation)
+• Something that stands for, designates or 
+represents something else
+• In computers, binary numbers symbolically 
+represent specific pieces of information 
+(e.g. a words, the colour of a pixel, a 
+musical note). 
+• There is a limited & well defined set of 
+symbols
+• These symbolic representations are stored 
+in memory
+• Cognition is the product of ‘operations’
+• Internal processes that act on symbolic 
+representations
+• In computers, these are functions like copy, 
+assign, insert, delete, save etc
+• In minds these operations might be ‘recall’, 
+‘read’, ‘translate’, ‘store’, etc etc 
+• Operations are deployed according to rules 
+that are also stored in memory
+• Mental processes are like computer programmes 
+that transform representations 
+The computational metaphor of the mind
+
+--- Slide/Page 11 ---
+1.
+Computational Theory level
+• What is the function of cognition? 
+• What is cognition for?
+• What cognitive functions are there? 
+2.
+Representation and Algorithm level
+• How does the cognition work?
+• How is information stored or “internally 
+represented”
+• What operations or “algorithms” are used to 
+manipulate internal representations?
+3.
+Hardware level
+• How are the representations instantiated in 
+the real world? 
+• Our primary interest as 
+cognitive psychologists are 
+levels 1 & 2
+3 Levels of Description (Marr 1982)
+Marr D, 1982 Vision. A Computational Investigation into the Human Representation and Processing of Visual 
+Information (New York: W H Freeman)
+
+--- Slide/Page 12 ---
+3 Levels of Description (Marr 1982)
+1.Computational Level (What and Why):
+The coffee maker's purpose is to produce a cup of coffee. It takes inputs like 
+water, coffee grounds, and electricity, and outputs brewed coffee. The goal is to 
+extract flavour compounds from coffee grounds using hot water.
+2. Algorithmic Level (How):
+The coffee maker follows a specific algorithm:
+•
+Heat water to a specific temperature
+•
+Pass hot water through coffee grounds
+•
+Filter the resulting liquid
+•
+Collect the brewed coffee in a pot or cup
+This level also includes representations like water level indicators 
+and temperature controls.
+3.Implementation Level (Physical Realization):
+This level describes the physical components that carry out the algorithm:
+•
+Heating element to warm the water
+•
+Pump to move water through the system
+•
+Filter basket to hold coffee grounds
+•
+Drip mechanism to control water flow
+•
+Carafe to collect brewed coffee
+Marr D, 1982 Vision. A Computational Investigation into the Human Representation and Processing of Visual 
+Information (New York: W H Freeman)
+
+--- Slide/Page 13 ---
+Modularity I (Fodor, 1983)
+• Human cognitions is organised into discrete mental modules, each of 
+which fulfils a specific function:
+• Horizontal faculties: General competencies used across domains (e.g. long 
+term memory)
+• Vertical faculties: Domain specific cognitive functions and processes (e.g. 
+language production, object recognition)
+• Modules don’t need to interact with other psychological processes in 
+order to operate (information encapsulation)
+• Disruption to one module does not necessarily affect processing in other 
+modules
+• Damaging an object recognition module does not affect short-term 
+memory
+• Modules are similar across all humans
+• Module processing is fast and obligatory (i.e. it happens without 
+conscious thought and cannot be suppressed)
+• Cognition involves the activation of horizontal and vertical faculties 
+• E.g. naming a face might draw on a visual module, memory faculty to 
+match visual representation to stored image and a linguistic module to 
+produce the name
+Fodor, Jerry A. (1983). The Modularity of Mind: An Essay on Faculty Psychology. Cambridge, MA: MIT Press.
+
+--- Slide/Page 14 ---
+Modularity II
+• Distinction between input systems (typically these are vertical faculties) and central 
+processors
+Input Systems
+Process incoming sensory information
+Transfer information to central 
+processors
+Domain specific (only process a 
+particular class of information)
+Stimulus 
+Representations
+Central 
+Processing
+Object recognition, 
+semantic analysis, 
+decision making:  
+“Houuuu COFFEE!!!’
+Central 
+Processor
+Makes decisions 
+Plans actions
+Not modular
+ 
+Long Term Memory
+Input modules
+Colour
+Shape
+Location
+Texture
+Motor
+Verbal
+Effector Systems
+Execute responses
+
+--- Slide/Page 15 ---
+Methods for identifying modules
+• Dissociation: A manipulation that affects one cognitive task but not a 
+different task 
+How can we know how many modules there are?
+Verbal memory
+Spatial memory 
+5 9 8 7 
+Free Recall
+No 
+articulatory 
+suppression 
+5 9 8 7 
+Free Recall
+With 
+articulatory 
+suppression 
+‘the’
+‘the’
+
+--- Slide/Page 16 ---
+Methods for identifying modules
+• Dissociation: A manipulation that affects one cognitive task but not a 
+different task 
+How can we know how many modules there are?
+1
+2
+3
+4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Single dissociation in short-term memory
+
+--- Slide/Page 17 ---
+Methods for identifying modules
+• Dissociation: A manipulation that affects one cognitive task but not a 
+different task 
+How can we know how many modules there are?
+1
+2
+3
+4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Single dissociation in short-term memory
+What do we see?
+There is a decrease in 
+performance for the phonological 
+task when there is interference
+However, the spatial task is not 
+affected 
+What does it mean?
+The interference is selectively 
+impacting phonological (verbal) 
+processing without affecting 
+spatial processing
+Phonological and spatial tasks 
+likely rely on distinct cognitive 
+subsystems within working 
+memory
+
+--- Slide/Page 18 ---
+Methods for identifying modules
+• Double Dissociation: two different cognitive functions are shown to 
+be impaired independently of each other, demonstrating that 
+they rely on separate brain processes or systems.
+How can we know how many modules there are?
+•Single dissociation: interference with 
+module A impairs task X but not task Y.
+•Double dissociation: interference with A 
+impairs task X but not task  Y, while 
+interference with B impairs task Y but not 
+task X
+Articulatory suppression (A) disrupts 
+verbal (X) but not spatial memory (Y)
+Making saccades (eye-
+movements) (B) disrupts spatial(Y) 
+but not verbal memory 9A)
+
+--- Slide/Page 19 ---
+Methods for identifying modules
+• Double Dissociation: two different cognitive functions are shown to 
+be impaired independently of each other, demonstrating that 
+they rely on separate brain processes or systems.
+How can we know how many modules there are?
+1
+2
+3
+4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Double dissociation in short-term memory
+Series1
+Series2
+
+--- Slide/Page 20 ---
+Methods for identifying modules
+• Double Dissociation: two different cognitive functions are shown to 
+be impaired independently of each other, demonstrating that 
+they rely on separate brain processes or systems.
+How can we know how many modules there are?
+1
+2
+3
+4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Double dissociation in short-term memory
+Series1
+Series2
+What do we see?
+There is a decrease in 
+performance for the spatial task 
+when there is eye-movement 
+interference but this time the 
+phonological task is not affected 
+What does it mean?
+The saccade task is 
+specifically interfering with 
+spatial processing while 
+leaving phonological 
+processing intact. Spatial and 
+phonological tasks rely on 
+separate cognitive systems 
+(
+d l
+)
+
+--- Slide/Page 21 ---
+We finished the lecture on this… will catch up the 3 remaining slides on Friday 
+
+--- Slide/Page 22 ---
+Methods for identifying modules
+Same applies for patient studies
+                          TASK
+       Digit Span 
+    List Learning
+LESION A
+              
+LESION B
+CONTROL (no 
+lesion)
+X
+X
+Inference: there are 
+processes/mechanisms 
+involved in task X that are 
+not involved in task Y and 
+vice versa. 
+The two tasks are mediated 
+by different functional 
+mechanisms:
+Task X controlled by area A
+                
+         Task Y controlled by 
+area B
+•Single dissociation allows researchers to infer that two 
+functions are independent to some degree, but it doesn't 
+rule out the possibility that they are partially related.
+•Double dissociation enables more specific inferences about 
+brain function and functional localization, conclusively 
+demonstrating that two functions are separate
+
+--- Slide/Page 23 ---
+Cognitive Neuropsychology
+• What can brain damage tell us about normal cognition? 
+• Reverse engineering cognition
+• Localisation of functions less important
+• Typically investigate single cases
+• Patient HM (Scoville & Milner 1957)
+• Neurosurgery to cure epilepsy
+• Severe anterograde amnesia: a couldn’t form new memories
+• Short term memory OK, could learn new skills.
+• LTM, STM and Procedural memory must be different systems! 
+• Revolutionised understanding of how memory functions
+Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. Journal of neurology, 
+neurosurgery, and psychiatry, 20(1), 11.
+
+--- Slide/Page 24 ---
+Limitations
+• What is ‘normal’ performance for that patient?
+• Rarely know how good a person was at a task before injury
+• Plasticity & Functional reorganisation of cognition, Neuroplasticity refers to the 
+ability of the nervous system to adapt its structural organisation to new situations 
+(e.g., after damage). 
+• Perhaps patients adopt compensatory strategies
+• Cannot say anything about time-course of information processing
+• Heterogeneity: Damage is rarely focal, overlapping deficits/lesions, all patients 
+are different!
+• E.g. Stroke affects lots of brain area and lots of cognitive systems
+
+--- Slide/Page 25 ---
+Summary
+• Cognitive psychologists conceptualise thought as information processing
+• The goal is to understand these processes
+• There are some key assumption about the nature of human cognition
+• Cognition is the consequence of information processing
+• Information processing comprises the storage and manipulation of internal representations according to well 
+defined rules
+• Cognitive process are modular
+• Dissociations provide insight into the nature of these modules.
+
+--- Slide/Page 26 ---
+On Friday…
+• The cognitive psychology of attention
+
+--- Slide/Page 27 ---
+After today’s lecture you should be able to…
+• Understand the aims of cognitive psychology
+• Explain the assumptions and principles underpinning cognitive psychology
+• Information Processing analogy
+• The Computational metaphor
+• The principle of modular design
+• Understand the idea of single and double dissociations
+
+--- Slide/Page 28 ---
+Test yourself!
+• Why can we claim that spatial and phonological tasks rely on 
+separate cognitive systems (or modules)?
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Intro 1 Lecture 1 2026 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 1: 
+Historical background 
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Professor Anthony McGregor
+anthony.mcgregor@durham.ac.uk
+Learn Ultra:  
+Introduction to Psychology 1:
+Course Documents
+Block 3: Animal Learning and Cognition
+Lecture slides, overviews, revision materials
+
+--- Slide/Page 3 ---
+If you don’t understand something:
+• Ask
+(or)
+• Listen again to the lecture when it uploads to Lecture Recordings
+• Read the lecture notes I post after the lecture
+• If you still don’t follow then post your question on the Discussion Board
+Contact: Office hour 10-11am Tuesdays . Email for appointment outside this 
+time
+Professor Anthony McGregor
+anthony.mcgregor@durham.ac.uk
+
+--- Slide/Page 4 ---
+My ‘lecture style’
+• I tend not to write many words on my slides. I find this stops me reading 
+them, but it also means my lectures are a bit more ‘free form’.
+•My rambles into trivia are often give you a break from concentrating on 
+some difficult content. It’s all part of the plan.
+•Apart from some obvious fact-based material, this is not a lecture series to 
+learn by rote. Sit back and listen. Don’t try to write down what I say word-
+for-word.
+Professor Anthony McGregor
+anthony.mcgregor@durham.ac.uk
+
+--- Slide/Page 5 ---
+Why Study Animal Cognition?
+•
+Comparative Psychology
+-
+How do different species differ in their 
+psychological abilities/processes?
+•
+Natural and intellectual curiosity
+•
+Relevance to other disciplines
+-
+human cognitive psychology
+-
+behavioural neuroscience
+-
+artificial intelligence and computational modelling 
+-
+clinical psychology
+
+--- Slide/Page 6 ---
+Why Study Animal Cognition?
+•
+Comparative Psychology
+-
+How do different species differ in their 
+psychological abilities/processes?
+•
+Natural and intellectual curiosity
+•
+Relevance to other disciplines
+-
+human cognitive psychology
+-
+behavioural neuroscience
+-
+artificial intelligence and computational modelling 
+-
+clinical psychology
+
+--- Slide/Page 7 ---
+Why Study Animal Cognition?
+•
+Comparative Psychology
+-
+How do different species differ in their 
+psychological abilities/processes?
+•
+Natural and intellectual curiosity
+•
+Relevance to other disciplines
+-
+human cognitive psychology
+-
+behavioural neuroscience
+-
+artificial intelligence and computational modelling 
+-
+clinical psychology
+Psychology is a science in which behavioural and other 
+evidence is used to understand the internal processes 
+leading people (and members of other species) to behave 
+as they do (Eysenck, 2004)
+
+--- Slide/Page 8 ---
+Darwin (1859)
+On the Origin of Species by Natural Selection
+
+--- Slide/Page 9 ---
+Darwin (1859)
+On the Origin of Species by Natural Selection
+• there is variability among individuals in a population
+• variability is hereditary
+• more offspring are born than can survive, and there is competition 
+among individuals for resources
+• the survivors of the competition will reproduce
+
+--- Slide/Page 10 ---
+Darwin (1859)
+On the Origin of Species by Natural Selection
+• there is variability among individuals in a population
+• variability is hereditary
+• more offspring are born than can survive, and there is competition 
+among individuals for resources
+• the survivors of the competition will reproduce
+•
+There is no difference between the evolution of 
+humans and the evolution of other animals
+•
+There is no difference between behaviour and other 
+evolved traits
+
+--- Slide/Page 11 ---
+Why Study Animal Cognition?
+•
+Comparative Psychology
+-
+How do different species differ in their 
+psychological abilities/processes?
+•
+Natural and intellectual curiosity
+•
+Relevance to other disciplines
+-
+human cognitive psychology
+-
+behavioural neuroscience
+-
+artificial intelligence and computational modelling 
+-
+clinical psychology
+
+--- Slide/Page 12 ---
+Why Study Animal Cognition?
+•
+Comparative Psychology
+-
+How do different species differ in their 
+psychological abilities/processes?
+•
+Natural and intellectual curiosity
+•
+Relevance to other disciplines
+-
+human cognitive psychology
+-
+behavioural neuroscience
+-
+artificial intelligence and computational modelling 
+-
+clinical psychology
+
+--- Slide/Page 13 ---
+Suggested Textbook
+"There are very few instances in which one of the world's leading researchers 
+is willing to write a textbook in his area of expertise, and even fewer where the 
+resulting text is beautifully clear and interesting. Pearce's text is of just this 
+quality; any student fortunate enough to read it will be exposed to a lucid, 
+entertaining, and stimulating introduction to what we know about animal 
+learning and cognition." - Dr. David Lieberman, Department of Psychology, 
+University of Stirling
+
+--- Slide/Page 14 ---
+General introduction to learning. Covers basics, 
+useful background
+*Very* short, but covers a lot of what’s in our 
+lectures and more. Cheap!
+https://www.amazon.co.uk/Learning-Very-
+Short-Introduction-Introductions/dp/
+0199688362
+Mark Haselgrove - Learning: A very short introduction
+Suggested Textbook
+
+--- Slide/Page 15 ---
+Historical Background
+Romanes (1881)
+Animal Intelligence
+
+--- Slide/Page 16 ---
+Historical Background
+Romanes (1881)
+Animal Intelligence
+ Insects      Birds      Apes      Humans
+“They act with rational imitation – which 
+involves a rational understanding of mechanical 
+properties and considerable reasoning power”
+
+--- Slide/Page 17 ---
+Conway Lloyd Morgan 
+(1890s)
+Historical Background
+
+--- Slide/Page 18 ---
+Conway Lloyd Morgan 
+(1890s)
+Historical Background
+Against
+anthropomorphism
+
+--- Slide/Page 19 ---
+Conway Lloyd Morgan 
+(1890s)
+Historical Background
+Lloyd Morgan’s (1894) Canon
+In no case may we interpret an action as 
+the outcome of the exercise of a higher
+psychical faculty, if it can be interpreted as
+the outcome of one which stands lower in
+the psychological scale
+
+--- Slide/Page 21 ---
+Edward Thorndike (1874 - 1949)
+Historical Background
+Wanted to deliver
+“the coup de grace to the despised 
+notion that animals reason”
+
+--- Slide/Page 24 ---
+TIME TO ESCAPE (SEC)
+0
+20
+40
+60
+80
+TRIALS
+1 2 3 4 5 6 7 8 9 10 11 1213141516171819
+Trial by Trial Learning Curve
+
+--- Slide/Page 25 ---
+TIME TO ESCAPE (SEC)
+0
+20
+40
+60
+80
+TRIALS
+1 2 3 4 5 6 7 8 9 10 11 1213141516171819
+Hypothetical Learning Curve
+
+--- Slide/Page 26 ---
+Thorndike’s law of effect
+If a response leads to a satisfying outcome 
+it will be strengthened
++/-
+S
+R
+O
+
+--- Slide/Page 27 ---
+Thorndike’s law of effect
+If a response leads to a satisfying outcome 
+it will be strengthened
++/-
+S
+R
+O
+
+--- Slide/Page 28 ---
+Thorndike’s law of effect
+If a response leads to a satisfying outcome 
+it will be strengthened
++/-
+S
+R
+O
+
+--- Slide/Page 29 ---
+Historical Background
+✦  John B Watson (1878-1958) advocated
+• Importance of learning
+• Behaviourism
+• Use of animals
+✦  Burrhus Frederick Skinner (1904-1990)
+✦  Ivan P Pavlov (1849-1936)
+
+--- Slide/Page 30 ---
+Watson
+Titchener
+
+--- Slide/Page 31 ---
+Historical Background
+✦  John B Watson (1878-1958) advocated
+• Importance of learning
+• Behaviourism
+• Use of animals
+“Give me a dozen healthy infants …. and my own specified world to bring them up in and I’ll 
+guarantee to take any one at random and train him to become any type of specialist I might 
+select - doctor, lawyer, artist, merchant-chief and, yes, even beggar-man and thief, regardless 
+of his talents, penchants, tendencies, abilities, vocations, and race of his ancestors.”
+
+--- Slide/Page 32 ---
+Watson
+Rosalie Raynor
+
+--- Slide/Page 33 ---
+Little Albert Experiment (1920)
+
+--- Slide/Page 34 ---
+A Clockwork Orange (1971)
+
+--- Slide/Page 35 ---
+Historical Background
+✦  John B Watson (1878-1958) advocated
+• Importance of learning
+• Behaviourism
+• Use of animals
+✦  Burrhus Frederick Skinner (1904-1990)
+✦  Ivan P Pavlov (1849-1936)
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 1 notes.doc
+────────────────────────────────────────────────────────────
+
+bjbj
+Lecture 1
+The purpose of this block is to provide an introduction to the study of non-human animal learning and cognition, and how it can inform us about the nature of intelligence in humans.  Why study animal cognition?  There are a number of reasons, but one that should not be simply discounted is natural curiosity.  Animals play a prominent role in our lives as pets, as sources of food, or in the wild, so it is natural to wonder about their intelligence.  This curiosity is enhanced by news reports of some apparently sophisticated intellectual skills being displayed by animals, such as self-recognition in elephants, amazing homing skills in cats, and dogs apparently anticipating their owners
+return.  However, the study of animal cognition can also make important contributions to other disciplines, such as human cognitive psychology.  The intellectual capabilities of animals are arguably less complicated than those of humans, and should therefore be easier to understand.  In addition, the lack of natural language in animals can be seen as an advantage in studying intelligence in humans.  The role of language in problem-solving in humans is a matter of great debate, so if animals can be shown to possess complex problem-solving skills without the use of complex language then it would support the view that complex human behaviour does not always depend on language.  The study of animal cognition also informs disciplines such as behavioural neuroscience and artificial intelligence.  In behavioural neuroscience it is important for researchers to have a clear understanding of the cognitive processes that their brain manipulations will affect.  In AI it is fair to say that because we don
+t yet know how intelligence in animals and humans is organised we are not capable of building machines that fully simulate their behaviour. Our most ubiquitous AI models, Large Language Models, rely heavily on simulating language use, which is unlikely to be a good fit for how cognition is achieved in animals (or, given how they operate, how language works in humans, either).
+The modern study of animal behaviour began with Darwin
+s Theory of Evolution by means of Natural Selection.  It was Darwin
+s theory that provided a mechanism by which evolution could occur, and also provided evidence of evolutionary continuity between animals and humans.  George Romanes pioneered the study of psychology in animals in the 1880s.  Unfortunately, he relied on anecdotes on animal behaviour from less-than-reliable sources.  As a result of these anecdotes, Romanes concluded that animals were rational, empathetic, reasoning creatures with many facets to their intellectual abilities.  Romanes saw a simple progression in the intellectual capabilities of animals by what he supposed to be their position on an evolutionary scale.  This idea is returned to in Lecture 3.
+Not surprisingly, there were researchers who disagreed with Romanes
+view.  Lloyd Morgan in the 1890s argued against Romanes
+anthropomorphism
+the tendency to view animals as people or to have the same capabilities, motivations and desires as humans.  Instead he called for more careful interpretations, formalised as Lloyd Morgan
+s Canon (1894):
+In no case may we interpret an action as the outcome of the exercise of a higher psychical faculty, if it can be interpreted as the outcome of one which stands lower in the psychological scale.
+However, it was Edward Thorndike who first conducted experiments on animal intelligence, and he chose to study one aspect of intelligence
+learning.  One of his motivations was to provide
+the coup de grace to the despised notion that animals reason
+.  He studied cats
+ability to escape from slatted crates called puzzle-boxes over successive trials.  The boxes contained various mechanisms that the animals had to manipulate in order to escape.  Thorndike found that with increasing numbers of trials the cats became quicker to escape.  However, there was no sudden decrease in the cats
+escape times, as would be expected if they gained some sudden insight, or had used reasoning, to discover how the escape mechanism worked.  Instead, Thorndike concluded that the animals had learned by trial-and error.  Consequently Thorndike developed his Law of Effect which states that
+If a response leads to a satisfying outcome it will be strengthened.
+We examined a simple computational model of how responses to certain stimuli (S-R associations) could be modified by the presence or absence of a biologically relevant outcome, though the outcome itself is not part of the association that drives behaviour.
+John Watson further emphasised the importance of learning in human behaviour.  He argued against the prevalent introspectionism method of studying psychology in humans, since it involved the subjective experience of the person being studied.  Instead, he supported a science of behaviourism, in which only observable phenomena, such as behaviour, could be studied.  This led to him advocating the use of animals in studying psychology, since their behaviour could also be measured.  Watson
+s behaviourism movement became the basis on which cognition in animals and humans is studied to this day.
+Romanes and Morgan:
+HYPERLINK "https://www.youtube.com/watch?v=79p6JHO4XN4"
+https://www.youtube.com/watch?v=79p6JHO4XN4
+Morgan
+s Canon:
+HYPERLINK "https://www.youtube.com/watch?v=IJ2V5LuShgc"
+https://www.youtube.com/watch?v=IJ2V5LuShgc
+Thorndike
+s puzzle boxes:
+HYPERLINK "https://www.youtube.com/watch?v=Vk6H7Ukp6To&t=140s"
+https://www.youtube.com/watch?v=Vk6H7Ukp6To&t=140s
+h1Od
+phFx
+[Content_Types].xml
+_rels/.rels
+theme/theme/themeManager.xml
+theme/theme/theme1.xml
+(<fR
+k):b|
+DL-)>
+,hEX
+Lw?%
+gj=H
+9MOJ
+L~Ad
+c%WS
+wae&
+YG4OPQR
+x%j.l)l
+theme/theme/_rels/themeManager.xml.rels
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+Lecture 1
+Anthony  McGregor
+Normal.dotm
+Anthony McGregor
+Microsoft Office Word
+Cardiff University
+Lecture 1
+Title
+_PID_HLINKS
+Microsoft Word 97-2003 Document
+MSWordDoc
+Word.Document.8
+
+================================================================================
+  LECTURE 2
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Intro 1 Lecture 2 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 2: 
+Skinner and Pavlov
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Historical Background
+✦ Charles Darwin (1809-1882)
+✦ Edward Thorndike (1874-1949)
+✦ John B Watson (1878-1958)
+✦ Burrhus Frederick (BF) Skinner (1904-1990)
+✦ Ivan P Pavlov (1849-1936)
+
+--- Slide/Page 3 ---
+"The major problems of the 
+world today can be solved only if 
+we improve our understanding of 
+human behavior" About 
+Behaviorism (1974) 
+Burrhus Frederick Skinner 
+1904 - 1990
+
+--- Slide/Page 6 ---
+Historical Background
+Instrumental conditioning
+(Operant)
+Response
+Outcome
+(reinforcer)
+(Stimulus)
+
+--- Slide/Page 7 ---
+• Operant or Instrumental conditioning
+• Response shaping
+• Schedules of reinforcement
+
+--- Slide/Page 9 ---
+Historical Background
+Instrumental conditioning
+(Operant)
+Response
+Outcome
+(reinforcer)
+(Stimulus)
+
+--- Slide/Page 10 ---
+Thorndike’s Law of Effect
++/-
+S
+R
+O
+The outcome (O) only strengthens or 
+weakens the connection between S and 
+R, and the outcome itself is not 
+represented in animals on making the 
+instrumental response.
+If a response leads to a satisfying outcome 
+it will be strengthened
+
+--- Slide/Page 11 ---
+Do animals only learn about a response?
+Colwill and Rescorla (1985)
+
+--- Slide/Page 12 ---
+Do animals only learn about a response?
+Stage 1
+Stage 2
+Test
+Lever press       Food
+and
+Chain pull     sucrose
+Food       Illness
+and
+Sucrose     nothing
+Lever
+and
+Chain
+Colwill and Rescorla (1985)
+
+--- Slide/Page 13 ---
+Thorndike’s Law of Effect
++/-
+S
+R
+O
+The outcome (O) only strengthens or 
+weakens the connection between S and 
+R, and the outcome itself is not 
+represented in animals on making the 
+instrumental response.
+If a response leads to a satisfying outcome 
+it will be strengthened
+
+--- Slide/Page 14 ---
+Do animals only learn about a response?
+Stage 1
+Stage 2
+Test
+Lever press       Food
+and
+Chain pull     sucrose
+Food       Illness
+and
+Sucrose     nothing
+Lever
+and
+Chain
+Colwill and Rescorla (1985)
+
+--- Slide/Page 15 ---
+Colwill and Rescorla (1985)
+Do animals only learn about a response?
+
+--- Slide/Page 16 ---
+• Operant or Instrumental conditioning
+• Response shaping
+• Schedules of reinforcement
+
+--- Slide/Page 17 ---
+Cumulative Record for a Fixed Interval (FI) Schedule
+Time (sec)
+Total Responses Since Start of Session
+30
+60
+90
+
+--- Slide/Page 18 ---
+Schedules of reinforcement
+Ratio
+Interval
+Fixed
+Variable
+FR
+FI
+VI
+VR
+
+--- Slide/Page 19 ---
+Schedules of reinforcement
+Ratio
+Interval
+Fixed
+Variable
+FR
+FI
+VI
+VR
+
+--- Slide/Page 20 ---
+Schedules of reinforcement
+FI - studying for exams
+FR - ‘piece work’ in factories 
+(gig ecomony?)
+VI - instagram
+VR - gambling
+
+--- Slide/Page 21 ---
+Historical Background
+✦ Charles Darwin (1809-1882)
+✦ Edward Thorndike (1874-1949)
+✦ John B Watson (1878-1958)
+✦ Burrhus Frederick (BF) Skinner (1904-1990)
+✦ Ivan P Pavlov (1849-1936)
+
+--- Slide/Page 22 ---
+Pavlovian or Classical conditioning
+
+--- Slide/Page 25 ---
+CS
+US
+UR
+Pavlovian conditioning
+CS = conditioned stimulus (light)
+US = unconditioned stimulus (food)
+UR = unconditioned response (salivation)
+CR = conditioned response (salivation)
+
+--- Slide/Page 26 ---
+CS
+US
+UR
+CS
+US
+UR
+CS
+CR
+CR
+Pavlovian conditioning
+
+--- Slide/Page 27 ---
+Historical Background
+Instrumental conditioning
+(Operant)
+Pavlovian conditioning
+(Classical)
+Response
+Outcome
+(reinforcer)
+Stimulus 
+(CS)
+Stimulus
+(US)
+
+--- Slide/Page 28 ---
+Before conditioning 
+Bell 
+No Response 
+       Food 
+ (unconditioned stimulus, US) 
+Salivation 
+(unconditioned response, UR) 
+During conditioning 
+       Bell 
+ 
+       Food 
+ (unconditioned stimulus, US) 
+       Bell 
+ (conditioned stimulus, CS) 
+Salivation 
+(conditioned response, CR)
+
+--- Slide/Page 29 ---
+Edwin B. Twitmyer
+
+--- Slide/Page 30 ---
+Asymptote
+Extinction
+   CS alone
+Spontaneous 
+Recovery
+           CS alone
+Drops of Saliva
+Acquisition
+CS-US pairings
+
+--- Slide/Page 31 ---
+Asymptote
+Spontaneous 
+Recovery
+           CS alone
+Drops of Saliva
+Acquisition
+CS-US pairings
+Extinction
+   CS alone
+
+--- Slide/Page 32 ---
+Asymptote
+Acquisition
+CS-US pairings
+Extinction
+   CS alone
+Spontaneous Recovery
+ CS alone
+Drops of Saliva
+
+--- Slide/Page 33 ---
+400
+800
+1200
+1600
+2000
+Frequency Hz
+Drops of Saliva
+Stimulus generalisation 
+Generalisation gradient
+Generalisation decrement
+
+--- Slide/Page 34 ---
+Rachman, S J (1966) Psychological Record, 16, 293-296
+
+--- Slide/Page 35 ---
+Before conditioning
+Leather Boot
+No Response
+       Picture
+ (unconditioned stimulus, US)
+??
+(unconditioned response, UR)
+During conditioning
+       Leather Boot
+ 
+       Picture
+ (unconditioned stimulus, US)
+       Leather Boot
+ (conditioned stimulus, CS)
+??
+(conditioned response, CR)
+
+--- Slide/Page 36 ---
+Slipper
+Ankle boot
+Knee high boot
+Sandal
+Footware
+Strength of response!
+Stimulus generalisation 
+Generalisation gradient
+Generalisation decrement
+High heel
+
+--- Slide/Page 37 ---
+Historical Background
+✦ Charles Darwin (1809-1882)
+✦ Edward Thorndike (1874-1949)
+✦ John B Watson (1878-1958)
+✦ Burrhus Frederick (BF) Skinner (1904-1990)
+✦ Ivan P Pavlov (1849-1936)
+Next lecture - the study of animal intelligence
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 2 notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 2
+
+Skinner added experimentation to Watson’s behaviourist views, and provided the technology and techniques necessary to conduct well controlled experiments.  Skinner predominately used rats and pigeons in his experiments, and he developed a technique he called Response Shaping to train his animals to perform a particular behaviour to gain a reward.  He also developed schedules of reinforcement to keep animals performing a trained response without always receiving a reward.  Schedules that involve presenting a reinforcer after a certain amount of time are called Interval schedules, while those that involve presenting a reinforcer after a certain number of responses are called Ratio schedules. These schedules can be Fixed (i.e., the first response after a fixed amount of time (Interval) or responses (Ratio) is reinforced), or Variable (i.e., the time or number of responses varies, but on average they equate to a certain amount of time (Interval) or number of responses (Ratio)). Skinner devised an automated apparatus known as a conditioning chamber, commonly called a Skinner box, in which levers could be pressed, or keys could be pecked in response to certain cues in order to gain a food reward.  These conditioning chambers are very versatile and are still used to control experiments with animals.  Skinner named the type of learning in which a particular response would lead to a reward Operant, or Instrumental, Learning.
+
+While in America psychologists like Skinner were studying situations in which a particular response led to the delivery of food, Pavlov, working in Russia, had been studying what happened if an animal was trained to learn that a neutral stimulus led to food.  He famously studied dogs, and their salivary action in response to the delivery of food.  Originally a physiologist (he won the Nobel prize for his work on the digestive system), Pavlov noticed that when his research assistants arrived to feed the dogs their meat powder, the dogs would salivate before the food was given to them.  Sometimes just the presence of the assistant was enough for the dog to salivate.  He was so interested in this phenomenon that he altered his whole research laboratory to study what he called conditional learning.  The term ‘conditional’ was mistranslated into English and became ‘conditioning’.  The terms ‘conditioning’ and ‘conditioned’ now have very specific meanings in psychology.  In Pavlovian conditioning (also known as Classical conditioning) a neutral stimulus, such as a bell, initially has no learned effect on the animal.  When an unconditioned stimulus (US), such as food, is presented, the animal makes an appropriate unconditioned response (UR), such as salivation.  During conditioning the bell (a conditioned stimulus, CS) is repeatedly paired with the US, which in turn leads to the UR.  After a number of CS-US pairings the presentation of the CS alone is enough to produce salivation, which is now called a conditioned response (CR) because it is produced in response to the CS, not the US.  Note the UR and the CR in this case are the same, but there are other cases where they might be different.  For example, when an aversive stimulus is used instead of an appetitive one the CR is often different from the UR.  Imagine the situation in which a rat is given a mild electric shock.  Its unconditioned response is to jump and perhaps escape from the stimulus.  However, when a tone (CS) is paired with the shock (US) a number of times, the presentation of the CS alone does not produce a response like the UR. Instead the rat will produce a CR of freezing – waiting in apparent anticipation of the shock.
+
+Pavlov plotted the number of drops of saliva (CR) produced over successive CS-US pairings on a graph.  During Acquisition the number of drops increased over trials, up to a stable maximum number (Asymptote).  When the CS was presented alone over a number of trials, conditioned responding dropped off to almost nothing.  This is known as Extinction.  However, after a 24 hour rest the re-presentation of the CS alone produced a CR.  This is known as Spontaneous Recovery and is evidence that in Extinction the relationship between the CS and the US is not simply forgotten, because Spontaneous Recovery would not otherwise occur.
+
+Pavlov also showed that the conditioned response was sensitive to the properties of the conditioned stimulus.  For example, if a tone of 1200 Hz was used as the conditioned stimulus then conditioned responding was maximal when a 1200 Hz tone was presented.  However, there would also be a high CR when 1000 and 1400 Hz tones were presented, although responding would be lower than the maximum produced with a 1200Hz CS.  There was lower responding as the frequency of the tone deviated more from the CS.  Plotted on a graph this is known as a Generalisation gradient and is the result of Stimulus generalisation.  When conditioned responding is lower due to a slight difference between the trained CR and the presented CR (such as a change from 1200 to 1000Hz) this is known as Generalisation decrement.
+
+Acquisition, Extinction, Spontaneous Recovery and Generalisation decrement have all been shown in human studies such as the Little Albert study by Watson and Rayner, and the sexual fetishism study by Rachman.
+
+Shaping the Lever Press response:
+
+https://www.youtube.com/watch?v=4TyYX5C8uuI
+
+Skinner shaping a pigeon to turn:
+
+https://www.youtube.com/watch?v=LHQ9dWtfTtE
+
+Skinner ping pong pigeons:
+
+https://www.youtube.com/watch?v=vGazyH6fQQ4
+
+Schedules of reinforcement:
+
+https://www.youtube.com/watch?v=GLx5yl0sxeM
+
+Zimbardo explaining Pavlovian conditioning:
+
+https://www.youtube.com/watch?v=hhqumfpxuzI
+
+Generalisation, Discrimination, Extinction and Spontaneous Recovery:
+
+https://www.youtube.com/watch?v=qaOC_3KA3P8
+
+================================================================================
+  LECTURE 3
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor lecture 3 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 3: 
+Animal Intelligence
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Ranking ‘animal intelligence’
+From Pearce (2008)
+
+--- Slide/Page 3 ---
+Aristotle’s Great Chain of Being
+
+--- Slide/Page 4 ---
+Evolution
+Insects     Birds     Apes     Humans
+
+--- Slide/Page 5 ---
+Evolution is 
+not linear
+
+--- Slide/Page 6 ---
+•Hinde and Stevenson-Hinde (1973) - multiple chances for 
+intelligence to evolve 
+•Clayton and Emery (2005) - ‘feathered apes’ crow problem-
+solving
+
+--- Slide/Page 7 ---
+Brain size
+Jerison (1973). The principle of proper mass - the more 
+important a function is, the more of the brain is devoted to it
+
+--- Slide/Page 8 ---
+Brain size
+
+--- Slide/Page 9 ---
+Brain size
+Cephalization Index, K   =           E
+P 2/3
+Brain Weight (E)
+Body Weight (P)
+Jerison (1973)
+
+--- Slide/Page 10 ---
+Brain size
+From Pearce (2008)
+
+--- Slide/Page 11 ---
+Brain size
+Lefebvre, Reader, and Sol (2004)
+Birds
+Primates
+•What processes are involved in ‘innovation’?
+•May relate more to ‘boldness’ than intelligence
+
+--- Slide/Page 12 ---
+Brain size
+Lefebvre, Reader, and Sol (2004)
+•What processes are involved in ‘innovation’?
+•May relate more to ‘boldness’ than intelligence
+In addition
+•Brain size has been argued to correlate with other 
+‘intelligent’ behaviours
+- Social intelligence hypothesis
+- Foraging intelligence hypothesis
+
+--- Slide/Page 13 ---
+Brain size
+Food-storing subfamilies
+Non-food-storing subfamilies
+Sherry et al. (1989)
+
+--- Slide/Page 14 ---
+Brain size
+Adult marsh tits
+Adult blue tits
+Healy, Clayton, and Krebs (1994)
+Juvenile marsh tits
+Juvenile blue tits
+
+--- Slide/Page 15 ---
+Justifications for Rankings
+•
+Appearance
+•
+Aristotle’s Great Chain of Being
+•
+Evolution
+•
+Brain Size
+But see Macphail (1982)
+•Null Hypothesis
+
+--- Slide/Page 16 ---
+Justifications for Rankings
+•
+Appearance
+•
+Aristotle’s Great Chain of Being
+•
+Evolution
+•
+Brain Size
+But see Macphail (1982)
+•Null Hypothesis
+
+--- Slide/Page 17 ---
+Operant or Instrumental conditioning
+Response     Food
+Pavlovian or Classical conditioning
+Stimulus      Food
+Learning
+A relatively permanent change in behaviour resulting from experience
+
+--- Slide/Page 18 ---
+Problems with using speed of learning as a 
+measure of intelligence
+ Unexpected between-species differences
+- Skard (1950) - rats and humans in complex maze
+- Warren (1965) - goldfish, chickens, cats, horses, monkeys 
+in a stimulus discrimination
+- Angermeier (1984) - operant response in various 
+mammals, birds, fish
+- Papousek (1977) added 5 month-old children
+- Menzel & Erber (1978) added bees
+
+--- Slide/Page 19 ---
+Unexpected between-species differences
+Problems with using speed of learning as a 
+measure of intelligence
+
+--- Slide/Page 20 ---
+Problems with using speed of learning as a 
+measure of intelligence
+ Unexpected between-species differences
+- Skard (1950) - rats and humans in complex maze
+- Warren (1965) - goldfish, chickens, cats, horses, monkeys 
+in a stimulus discrimination
+- Angermeier (1984) - operant response in various 
+mammals, birds, fish
+- Papousek (1977) added 5 month-old children
+- Menzel & Erber (1978) added bees
+-Results showed the opposite of predictions from 
+cephalisation index
+
+--- Slide/Page 21 ---
+Unexpected between-species differences
+Problems with using speed of learning as a 
+measure of intelligence
+Why?  Contextual variables
+• Difficult to equate perceptual 
+demands of test
+• Difficult to equate motivational 
+demands of test
+Bitterman (1975) systematic variation
+
+--- Slide/Page 22 ---
+Within-species differences in speed of learning
+Garcia & Koelling (1966)
+Problems with using speed of learning as a 
+measure of intelligence
+Training
+Test
+Volume drunk
+Saline       illness
+Saline
+Saline       shock
+Saline
+LTW        illness  
+LTW
+LTW        shock  
+LTW
+LTW = light + tone + water
+Biological Relevance
+
+--- Slide/Page 23 ---
+So how do we measure animal intelligence?
+What do we mean by animal intelligence?
+
+--- Slide/Page 24 ---
+So how do we measure animal intelligence?
+What do we mean by animal intelligence?
+•
+Because ‘intelligence’ is conflated with the concept of a 
+general IQ (in humans) we tend to avoid the term in relation 
+to animals
+•
+We tend to talk about ‘cognition’ instead
+•
+Philosophers often equate ‘cognition’ and ‘reasoning’ (e.g., 
+thinking, knowing, understanding)
+•
+Psychologists tend to think of cognition as the ability to 
+process information in an adaptive way
+•
+Cognitive processes can be modelled in terms of 
+computations
+
+--- Slide/Page 25 ---
+Animal Cognition as Information Processing
+•
+Memory
+•
+Learning
+•
+Reasoning
+•
+Navigation
+•
+Communication
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 3 notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 3
+
+Nakajima et al. (2002) asked students to rank the intelligence of various animals on a scale from 0 to 100. Perhaps unsurprisingly there was a fairly linear progression from invertebrates to fish and chickens, to sheep, cows and horses, to cats and dogs and finally to great apes.  This progression seems to be fairly intuitive, but how should we justify such rankings?  Aristotle invoked the idea of a Scala naturae , or Great chain of being, in which there was an orderly sequence of complexity, and therefore intelligence, from simple animals like sponges to complex ones like humans.  Although this view is simplistic and antiquated it is tempting to consider Evolution in a similar fashion.  Romanes certainly believed the intelligence of animals to be ordered in a linear progression brought about by Natural Selection.  The problem with this idea is that all animals have a long evolutionary history with many common ancestors.  It is impossible to rank mammals higher than birds when both share much of their evolutionary history.  What about brain size?  It seems reasonable to expect species with bigger brains to possess a greater potential for intelligence.  However, much of an animal’s brain is involved in controlling motor functions, so a big body is also correlated with a big brain.  To control for body size Jerison (1973) generated a ratio of brain weight to body weight called the cephalisation index.  A larger cephalisation index indicates a big brain for the size of the animal’s body, and a low number indicates the reverse relationship.  Humans and dolphins possess high indices, with chimpanzees and elephants slightly lower, while dogs and cats were in the middle, and sheep, cows and rats at the bottom.  This progression is clearly similar to the ranks that the students identified in the study by Nakajima et al. (2002). Using whole brain size implies that it is possible to identify a general intelligence measure for different species. This has been attempted by some biologists who have correlated brain size with ‘innovation rate’ in different species – a measure of how many different foraging techniques have been observed for each species. The problem with this approach is that it’s possible for other factors, such as ‘boldness’ or low neophobia, to contribute to innovation, and these are not necessarily factors involved in intelligence. In addition, other correlations have been identified with brain size, such as social group size and the locations and timings of ripening fruit. Other biologists hypothesised that specific brain regions might correlate with some behaviours, such as hippocampus size and food-storing in birds.
+
+However, not everyone thinks that animals differ in their intelligence.  The Greek philosopher Anaxogoras reasoned that all animals were equally intelligent, but that some were better able to express that intelligence.  This view is somewhat mirrored by the more up-to-date views of Macphail.  After a large review of studies that reported differences in the intelligence of different species he concluded that all the results could be explained by differences in factors like motivation, or perception, or motor skills, rather than differences in intelligence.  The issue Macphail highlights is that intelligence can only be measured with well controlled experiments that control of the influence of other factors.
+
+In studying animal intelligence in the early 20th century, psychologists concentrated on the ability to learn.  Learning can be defined as a relatively permanent change in behaviour that results from experience.  It is important to note that the definition involves a change in behaviour, rather than the acquisition of knowledge.  This is because knowledge is a mentalistic process that cannot be observed in animals.  We have considered two forms of learning in previous lectures.  In operant, or instrumental conditioning the animal learns that a particular response leads to an outcome, such as the delivery of food. In Pavlovian, or classical conditioning a previously neutral stimulus, such as a tone, is paired with an outcome.  After learning (conditioning), the presentation of the tone alone is enough to elicit a conditioned response, such as salivation if the outcome was a food reward.
+
+Can we use speed of learning as a measure of animal intelligence?  One problem with this approach is that there are often unexpected between-species differences in speed of learning.  Skard, in 1950, compared rats and humans in their ability to navigate through a maze.  He found that to make an error-free run through the maze rats were as quick to learn as humans.  Angermeier trained various animals to make a response to gain a food reward.  Mammals had to press a lever, birds had to peck a disk, and fish had to push a rod.  The measure of learning was the number of rewards that had to be delivered for the animals reach a criterion.  Fish were the quickest to reach the criterion, then chickens, then rats, then rabbits.  Human infants, in another study, that had to turn their heads to gain a reward, were slowest to reach the criterion.  There are two reasons to explain these unexpected differences between species.  One is that it is difficult to equate the perceptual demands of the test.  For example, some species might find it more difficult than others to see, or perceive, the lever.  Another reason is that it is difficult to equate the motivational demands of the test.  For example, the reward might be more effective for the fish than for the rat.  These perceptual and motivational differences have been termed contextual variables by Jeff Bitterman.  His solution to the problem of these contextual variables is to conduct a series of experiments in which all the perceptual and motivational demands of the task are systematically varied.  The problem with this solution is that it is not practical to conduct such systematic variation.
+
+Another problem with using the speed of learning as a measure of animal intelligence is that there are sometimes within-species differences that are the result of the biological relevance of learning the relationships between certain stimuli.  Garcia & Koelling (1966) trained thirsty rats to drink from a water dispenser.  Two groups were then given saline to drink, and shortly afterwards were either given a mild footshock or a mild poison which made them feel ill.  When they were given saline to drink again, the group that were made ill avoided the saline, while those that received a footshock drank lots.  These findings could simply be put down to differences in the perceptual or motivational demands of learning the relationship between saline and footshock or illness.  However, another two groups were tested that rule out this possibility.  Each group received training in which they drank water in the presence of a light and clicker.  Rats were then either made ill or given a footshock.  In contrast to the saline-groups, the group that was shocked avoided drinking water in the presence of the light and clicker after their treatment, while the group that were made ill drank lots. Garcia explained the pattern of results by claiming that some cues are more biologically relevant than others.  Ingested foods are more likely to make an animal ill than predict a mild electric shock, so the rats easily associated the saline with illness, but not with footshock.  Similarly, dangerous events such as lightning, are more likely to be accompanied by flashes of light and loud noises than illness is, so the rats learn more about the significance of lights and noises when they are shocked than when they become ill.
+
+One last reason to be wary of using speed of learning as a measure of intelligence is that it might direct attention away from other important intellectual capacities.  We now consider intelligence to be a combination of information processing abilities such as memory, learning, reasoning, navigation and communication.  In the rest of the lectures we will go on to consider each of these information processing components individually.
+
+================================================================================
+  LECTURE 4
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 4 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 4: 
+Animal Memory
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Examples of animal memory
+•
+Capacity
+•
+Time
+•
+Number
+•
+Categories
+Properties of animal memory
+•
+Short term memory
+•
+Habituation
+•
+Radial arm maze
+•
+Long term memory
+•
+Consolidation theories
+•
+Retrieval theories
+Animal Memory
+
+--- Slide/Page 3 ---
+When current behaviour is under the influence of 
+past experience
+Capacity
+   Location of Hidden Food
+•
+  Vander Wall (1982) – Clark’s nutcracker
+Animal Memory
+
+--- Slide/Page 6 ---
+Capacity
+• Photographs
+– Vaughan & Greene (1984) – pigeons
+
+--- Slide/Page 7 ---
+S+
+S-
+• slides randomly ordered and presented one at a time
+• pecks to slide recorded in the first 10s of presentation
+• after 10s, a10-s VI schedule started (range 1-35s)
+• if +ve pecks led to reinforcement, if -ve the trial terminated with no 
+reinforcement
+• new pairs of slides introduced daily until 80 slides
+
+--- Slide/Page 8 ---
+• slides randomly ordered and presented one at a time
+• pecks to slide recorded in the first 10s of presentation
+• after 10s, a10-s VI schedule started (range 1-35s)
+• if +ve pecks led to reinforcement, if -ve the trial terminated with no 
+reinforcement
+• new pairs of slides introduced daily until 80 slides 
+Measured 
+responding to 
+the Pos slides 
+compared 
+with Neg 
+slides
+
+--- Slide/Page 9 ---
+S+
+S-
+
+--- Slide/Page 10 ---
+Time – periodic
+• Cycles of activity over periods of time
+• Circadian Clock
+• Rodents (Aschoff, 1955) - Bolles & Lorge (1962)
+• Migratory birds (Berthold, 1968)
+• Insects (Roberts, 1965)
+
+--- Slide/Page 11 ---
+o>
+coc:o
+Q.
+C/)
+OJ
+Q:
+"txoco
+o
+o
+Q.
+O
+1.0
+.8
+.6
+.4
+.2
+a /
+/ 't?
+8-sec
+"•tf
+10
+Day
+20
+Time – interval
+• Church & Deluty (1977)
+• Church & Gibbon (1982)
+
+--- Slide/Page 12 ---
+Number
+• Clever Hans trained by Von Osten                      
+tested by Pfungst (1908)
+
+--- Slide/Page 14 ---
+C. Lloyd Morgan 
+(1890s)
+Lloyd Morgan’s (1894) Canon
+In no case may we interpret an action as 
+the outcome of the exercise of a higher
+psychical faculty, if it can be interpreted as
+the outcome of one which stands lower in
+the psychological scale
+
+--- Slide/Page 15 ---
+Number
+• Rats – Meck & Church (1983)
+• Left or right lever press depending on 
+number of tones presented
+• Equated length of time to present tones
+
+--- Slide/Page 16 ---
+Number
+• Monkeys – Brannon & Terrace (2000)
+
+--- Slide/Page 19 ---
+Number
+• Five-day-old chicks –Rugani, Regotin & Vallortigara (2007)
+
+--- Slide/Page 21 ---
+Number
+• Parrot – Pepperberg (1994)
+
+--- Slide/Page 24 ---
+Categories
+• Herrnstein, Loveland & Cable (1976)
+
+--- Slide/Page 28 ---
+Categories
+• Cerella (1979)
+
+--- Slide/Page 30 ---
+Explanations for Categorization
+• Innate categories
+• Exemplar learning
+• Feature learning
+• Exemplar learning + stimulus generalisation
+
+--- Slide/Page 32 ---
+Aust & Huber (2001)
+
+--- Slide/Page 33 ---
+Explanations for Categorization
+• Innate categories
+• Exemplar learning
+• Feature learning
+• Exemplar learning + stimulus generalisation
+
+--- Slide/Page 34 ---
+Bhatt et  al. (1988)
+
+--- Slide/Page 35 ---
+Bhatt et  al. (1988)
+Correct choice (%)
+25
+35
+45
+55
+65
+75
+85
+95
+Category Size
+1
+4
+12
+Old
+New
+
+--- Slide/Page 36 ---
+Explanations for Categorization
+• Innate categories
+• Exemplar learning
+• Feature learning
+• Exemplar learning + stimulus generalisation
+- exemplar effect
+
+--- Slide/Page 37 ---
+400
+800
+1200
+1600
+2000
+Frequency Hz
+Drops of Saliva
+Stimulus generalisation 
+Generalisation gradient
+Generalisation decrement
+
+--- Slide/Page 39 ---
+Examples of animal memory
+•
+Capacity
+•
+Time
+•
+Number
+•
+Categories
+Properties of animal memory
+•
+Short term memory
+•
+Habituation
+•
+Radial arm maze
+•
+Long term memory
+•
+Consolidation theories
+•
+Retrieval theories
+Animal Memory
+
+--- Slide/Page 40 ---
+Examples of animal memory
+•
+Capacity
+•
+Time
+•
+Number
+•
+Categories
+Properties of animal memory
+•
+Short term memory
+•
+Habituation
+•
+Radial arm maze
+•
+Long term memory
+•
+Consolidation theories
+•
+Retrieval theories
+Events from immediate past. 
+Current behaviour may be 
+influenced by recent events 
+Animal Memory
+
+--- Slide/Page 41 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+
+--- Slide/Page 42 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Bernal-Gamboa, Garcia-Salazar, & Gamez (2021)
+
+--- Slide/Page 43 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Tone 1
+     
+150 sec
+     Tone 1
+Startle!
+Startle!
+Startle!
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+weak startle
+
+--- Slide/Page 44 ---
+Wagner (1976, 1981)
+Short term store
+Rehearsal
+Long term store
+
+--- Slide/Page 45 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Tone 1
+     
+150 sec
+     Tone 1
+Startle!
+Startle!
+Startle!
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+weak startle
+
+--- Slide/Page 46 ---
+Effector Fatigue
+Effector system - the physiological system responsible for producing a response
+S1
+S2
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+weak startle
+Tone 1
+     
+60 sec
+     Tone 2
+Startle!
+Startle!
+
+--- Slide/Page 47 ---
+S1
+S2
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+weak startle
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+Startle!
+Receptor Fatigue
+Receptor system - the physiological system responsible for perceiving the stimulus 
+Distractor
+Dishabituation
+Retroactive Interference
+
+--- Slide/Page 48 ---
+Examples of animal memory
+•
+Capacity
+•
+Time
+•
+Number
+•
+Categories
+Properties of animal memory
+•
+Short term memory
+•
+Habituation
+•
+Radial arm maze
+•
+Long term memory
+•
+Consolidation theories
+•
+Retrieval theories
+Events from immediate past. 
+Current behaviour may be 
+influenced by recent events 
+Animal Memory
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 4 notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 4
+
+It is difficult to define memory, but for our purposes we will say that memory is when current behaviour is under the influence of past experience.  An impressive example of animal memory is in the Clark’s nutcracker.  In its habitat in high-altitude pine forests in America, there is plenty of food available in the autumn but very little a few months later during winter.  The nutcracker has evolved the behaviour of storing around 30,000 seeds with about four seeds per location. Estimates are that to survive the winter, each bird has to revisit around 4000 locations, known as caches.  The bird has been shown by Vander Wall (1982) and others to rely heavily on memory to relocate its caches.  A large memory capacity has also been shown in the laboratory in pigeons.  Vaughan & Greene (1984) carried out a number of experiments in which pigeons were required to peck on a key in response to the presentation of some stimuli, but withhold their response with other stimuli.  In one experiment they were shown photographs of everyday scenes.  They received a reward for pecking on the key in front of some of the photos, but not others.  After training the birds were able to discriminate 320 photographs, a feat that must have required a high capacity memory.
+
+Other experiments have shown that animals are able to remember information about time.  Periodic timing refers to the ability of animals to respond at a particular time.  For instance, mice show enhanced activity once every 24 hours even when lighting and heating levels are maintained at a constant level.  Cockroaches are similar, but seem to display regular activity on a 23.5 hour cycle, so normal diurnal cues from the environment (sun, warmth, etc.) are said to entrain the circadian clock. There are limits to the extent to which a regular diurnal cycle can influence behaviour, though. Bolles and colleagues found that rats reared on 19 or 29 hour diurnal cycles were unable to learn to anticipate food delivery based on these timescales. The 24 hour clock (or near to it) must be innate rather than learned. Another type of timing is interval timing, and this refers to the ability of animals to respond on the basis of specific durations.  Church & Deluty (1977) trained rats to press on levers in a conditioning chamber.  When a light cue was switched off after four seconds then the rats gained a food reward for pressing on the left lever, while food was delivered if they pressed the right lever if the light cue was switched off after 16 seconds.  In a different study Church & Gibbon (1982) exposed rats to different periods in which the lights were turned off in the conditioning chamber.  Only when the lights were turned off for 4 seconds were presses on a lever rewarded.  The results of both of these studies showed that rats could remember the durations of various stimuli.
+
+At the end of the 19th century a horse called Clever Hans became famous for its apparent ability to solve mathematical problems.  He would tap with his hoof in response to some arithmetical question and stop tapping when the number of taps corresponded to the correct answer.  However, Pfungst (1908) showed that Hans was unable to answer the question if the questioner was not visible, or if they did not know the answer to the question themselves.  The explanation was that Hans was actually showing a remarkable ability to read the questioner’s body language, which was tense while Hans was tapping, but relaxed as soon as the correct number of taps was reached.  Hans apparently realised the relaxed posture was his cue to stop tapping.  Despite the cautionary tale of Clever Hans, other animals do seem to be able to remember information about numbers.  Meck & Church (1983) conducted a similar study to Church & Deluty (1977), but this time with four tones signalling a reward if the left lever was pressed, and 16 tones signalling a reward for a response to the right lever.  Even when the time taken to present the four and 16 tones was made equal during test trials the rats were able to make the appropriate response, showing that they had learned about number and not about the time it takes to present the stimuli.
+
+Brannon & Terrace (2000) showed that monkeys were able to remember the numerosity represented by particular stimuli, by training them to touch squares on a touch-screen with different numbers of dots on them.  The monkeys had to touch the squares in numerical order, as shown by the number of dots, to gain a food reward.  The experimenters ruled out the possibility that the monkeys were solving the problem by remembering differences in the brightness of the stimuli, or by simple template-matching (like taking a visual snapshot), by conducting a number of test trials that controlled for these potential confounding factors.
+
+Rugani, Regotin & Vallortigara (2007) showed that five-day-old chicks are able to remember the numerical serial position of a baited food well, in a row of nine other unbaited wells.  Different chicks were trained to find food in the third, fourth, or sixth food well in the row.  The experimenters ruled out the possibility that the birds had simply learned the spatial location of the correct food well by rotating the row through 90 degrees and testing the birds from a new starting position.  For example, birds that found food in the fourth well from the start of the row during training searched in the fourth from left or fourth from right position in the rotated row.
+
+One last example suggests that animals might not remember numerical information in the same way as humans do, although they certainly learn something about number.  Alex was an African grey parrot, trained by Irene Pepperberg.  He was capable of many tasks, some of which we’ll cover in later lectures.  One of his abilities was to name, when asked, the number of coloured blocks he sees in front of him.  This is an impressive ability, but is it counting?  When we see a very short presentation of a number of items we are able to accurately name the number of items, even though we have not been able to count them.  There is a perceptual ability in humans called subitizing, in which we can name the number of items in tasks like this, but only up to a maximum of seven or eight items.  This happens to be the same number that Alex was able to count to, so perhaps we should be cautious about how he solved the problem.
+
+Many species of animal have been shown to be able to learn and remember information about categories. In each session of training Herrnstein, Loveland & Cable (1976) showed pigeons a set of 80 different photographs, half of which contained pictures of trees.  The trees weren’t particularly prominent in the pictures – they were scenes that contained trees. The other photographs were of similar scenes, but they didn’t contain trees.  The photographs were shown one at a time and pecks at a response key were rewarded with food only in the presence of pictures of trees.  The photographs were taken from a set of over 500 pictures, and eventually the pigeons were able to discriminate accurately between the two categories of slides.  Most importantly, they were even able to respond correctly when they were presented with novel photographs.  The results of this study led Herrnstein et al. to propose that pigeons had the ability to acquire concepts, or categorise information.  Another study by Cerella (1979), in which pigeons were required to categorise silhouettes of oak leaves from non-oak leaves, lends support to this idea.  Subsequently monkeys, chinchillas, chickens, quail, blue jays and Alex the parrot have been shown to be able to remember information about such categories as trees, water, people, cats, flowers, cars and chairs.  Pigeons have even been able to discriminate pictures by Monet and Picasso and even music by Bach and Stravinsky.
+
+How is categorisation achieved?  There are at least four possibilities: Innate categories, Exemplar learning, Feature learning, and Exemplar learning with stimulus generalisation.  Fodor proposed the possibility of Innate categories that involve no learning.  Face recognition in humans is one example of a proposed innate category – we naturally recognise faces and we do not have to learn to do so.  However, the idea of innate categories is not plausible with some of the examples we have just examined.  Another possibility is Exemplar learning, in which the animal remembers every instance or exemplar of the category.  Given Herrnstein et al.’s and Cerella’s results with novel items Exemplar learning is not very plausible either.  A third possibility is Feature learning.  If a pigeon learns about features that the rewarded slides have in common with each other then it will form a positive association with features that slides share, but neutral associations with features that common to both rewarded and unrewarded slides.  If this is how pigeons achieve categorisation then we would not only expect them to transfer performance to novel pictures, but we would expect performance to be as good as during training.  In fact we find that while the pigeons are good with new photographs, their performance is not as good as with the training photographs.  This brings us back to Exemplar learning, but with the addition of stimulus generalisation.  Stimulus generalisation is when we show a strong conditioned response to items that are similar to the trained stimulus, but as similarity decreases responding drops off.  Exemplar learning with stimulus generalisation does a good job of explaining categorisation, but there is still controversy about which of these accounts is correct.
+
+================================================================================
+  LECTURE 5
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 5 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 5: 
+Memory 2 and 
+Intro to Associative Learning
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Examples of animal memory
+•
+Capacity
+•
+Time
+•
+Number
+•
+Categories
+Properties of animal memory
+•
+Short term memory
+•
+Habituation
+•
+Radial arm maze
+•
+Long term memory
+•
+Consolidation theories
+•
+Retrieval theories
+Events from immediate past. 
+Current behaviour may be 
+influenced by recent events 
+Animal Memory
+
+--- Slide/Page 3 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+
+--- Slide/Page 4 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Bernal-Gamboa, Garcia-Salazar, & Gamez (2021)
+
+--- Slide/Page 5 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+weak startle
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+Habituation
+
+--- Slide/Page 6 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Tone 1
+     
+150 sec
+     Tone 1
+Startle!
+Startle!
+Startle!
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+weak startle
+
+--- Slide/Page 7 ---
+Wagner (1976, 1981)
+Short term store
+Rehearsal
+Long term store
+
+--- Slide/Page 8 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Tone 1
+     
+150 sec
+     Tone 1
+Startle!
+Startle!
+Startle!
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+weak startle
+
+--- Slide/Page 9 ---
+Effector Fatigue
+Effector system - the physiological system responsible for producing a response
+S1
+S2
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+weak startle
+Tone 1
+     
+60 sec
+     Tone 2
+Startle!
+Startle!
+
+--- Slide/Page 10 ---
+S1
+S2
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+weak startle
+Tone 1
+     
+60 sec
+     Tone 1
+Startle!
+Startle!
+Receptor Fatigue
+Receptor system - the physiological system responsible for perceiving the stimulus 
+Distractor
+Dishabituation
+Retroactive Interference
+
+--- Slide/Page 11 ---
+Animal Memory
+•
+Short-term memory
+•
+Habituation
+-
+Whitlow (1975)
+-
+Wagner (1976)
+•
+Radial arm maze
+-
+Beatty & Shavalia (1980)
+-
+Roberts (1981)
+•
+Long-term memory
+•
+Consolidation theories
+-
+Electro-convulsive shock
+•
+Retrieval theories
+-
+Deweer, Sara & Hars (1980)
+Short-lasting and susceptible to 
+interference
+
+--- Slide/Page 12 ---
+• Radial Maze Olton (1978)
+-
+Capacity -  at least 8 items
+-
+Duration - up to 4 hours
+-
+Content - landmarks
+• Retroactive interference
+-
+Beatty and Shavalia (1980)
+-
+Roberts (1981)
+Short-Term Memory
+
+--- Slide/Page 13 ---
+Animal Memory
+•
+Short-term memory
+•
+Habituation
+-
+Whitlow (1975)
+-
+Wagner (1976)
+•
+Radial arm maze
+-
+Beatty & Shavalia (1980)
+-
+Roberts (1981)
+•
+Long-term memory
+•
+Consolidation theories
+-
+Electro-convulsive shock
+•
+Retrieval theories
+-
+Deweer, Sara & Hars (1980)
+Short-lasting and susceptible to 
+interference
+Lasts hours and less 
+susceptible to interference
+
+--- Slide/Page 14 ---
+• STM occurs in variety of tasks
+• STM is decaying memory trace (Wagner)
+• Properties of STM vary according to task
+Short-Term Memory
+Summary
+
+--- Slide/Page 15 ---
+Animal Memory
+•
+Short-term memory
+•
+Habituation
+-
+Whitlow (1975)
+-
+Wagner (1976)
+•
+Radial arm maze
+-
+Beatty & Shavalia (1980)
+-
+Roberts (1981)
+•
+Long-term memory
+•
+Consolidation theories
+-
+Electro-convulsive shock
+•
+Retrieval theories
+-
+Deweer, Sara & Hars (1980)
+
+--- Slide/Page 16 ---
+BLACK
+WHITE
+African Claw-Toed Frog
+Miller and Berk (1977)
+
+--- Slide/Page 17 ---
+• Consolidation
+• Retention
+• Retrieval
+Mechanisms of LTM
+• Consolidation Theories
+- Hebb (1949)
+- Duncan (1949)
+- Electroconvulsive shock (ECS)
+• Retrieval Theories
+- Deweer, Sara, & Hars (1980)
+
+--- Slide/Page 18 ---
+START
+FINISH
+Train  = 30 sec
+25 days
+                         
+                 Test = 150 sec
+Train  = 30 sec    25 days
+    90-sec Reminder
+       Test = 40 sec
+Deweer, Sara & Hars (1980)
+
+--- Slide/Page 19 ---
+Animal Memory
+•
+Short-term memory
+•
+Habituation
+-
+Whitlow (1975)
+-
+Wagner (1976)
+•
+Radial arm maze
+-
+Beatty & Shavalia (1980)
+-
+Roberts (1981)
+•
+Long-term memory
+•
+Consolidation theories
+-
+Electro-convulsive shock
+•
+Retrieval theories
+-
+Deweer, Sara & Hars (1980)
+
+--- Slide/Page 20 ---
+Associative Learning
+• What is learned in Pavlovian conditioning?
+• What determines the nature of the conditioned 
+response?
+•
+Stimulus substitution
+-
+Autoshaping
+-
+Food vs water
+•
+Preparatory response
+-
+Conditioned suppression
+
+--- Slide/Page 21 ---
+Associative Learning
+Holloway and Domjan (1993)
+US
+Receptive female
+CS
+Light
+UR
+Approach
+
+--- Slide/Page 22 ---
+Associative Learning
+Holloway and Domjan (1993)
+US
+Receptive female
+CS
+Light
+UR/CR
+Approach
+
+--- Slide/Page 23 ---
+Associative Learning
+Holloway and Domjan (1993)
+US
+Receptive female
+UR/CR
+Approach
+CS
+Light
+S-R
+S-S
+
+--- Slide/Page 24 ---
+Stage 1
+Stage 2
+Test
+Tone      Wintergreen+sucrose
+Noise       Peppermint+sucrose
+Wintergreen + sucrose      LiCl
+Tone + sucrose
+Noise + sucrose
+Holland (1990)
+
+--- Slide/Page 25 ---
+Stage 1
+Stage 2
+Test
+Tone      Wintergreen+sucrose
+Noise       Peppermint+sucrose
+Wintergreen + sucrose      LiCl
+Tone + sucrose
+Noise + sucrose
+Holland (1990)
+Wintergreen
+Illness
+Peppermint
+
+--- Slide/Page 26 ---
+The influence of the US on the CR
+Konorski
+Holland
+USs have Specific and Affective qualities
+Affective qualities can be Appetitive or Aversive
+
+--- Slide/Page 27 ---
+Stimulus Substitution
+Autoshaping
+ITI = 60 s
+CS = 5 s
+US = 5 s
+ITI = 60 s
+ITI = intertrial interval
+
+--- Slide/Page 28 ---
+US  is water
+US is food
+
+--- Slide/Page 29 ---
+Preparatory Response
+Salivation during CS that signals US
+• general increase in activity
+Conditioned Suppression
+• decrease in movement
+
+--- Slide/Page 30 ---
+Lever Pressing
+60 s
+CS = Light
+US= Footshock
+0.5 s
+
+--- Slide/Page 31 ---
+Associative Learning
+• What is learned in Pavlovian conditioning?
+• What determines the nature of the conditioned 
+response?
+•
+Stimulus substitution
+-
+Autoshaping
+-
+Food vs water
+•
+Preparatory response
+-
+Conditioned suppression
+
+--- Slide/Page 32 ---
+Next time:
+Compensatory conditioned responses 
+The conditions of learning
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 5 notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 5
+
+Animal Memory (continued)
+
+So far we have been concerned with what kind of information animals can remember such as time, number, categories, as well as mentioning that some animals seem to be able to remember a lot of information for a long time.  When studying memory, a distinction is often drawn between two types of memory. One type lasts for relatively short periods and concerns information about the immediate past.  While in this state the information can take part in associative learning, and it may influence the current performance of the animal.  The other type of memory is believed to endure for much longer periods of time.  We will distinguish between the two types as short- and long-term memory.
+
+Short-term memory.  In order to determine whether or not an animal has retained information about a previously presented stimulus, the experimenter must provide some sort of recognition test.  If the subject’s behaviour toward a stimulus should change, after being exposed to it, then this may be due to the existence of a memory of the initial exposure to the stimulus.  The exposures could be to the stimulus itself (habituation), or the stimulus could serve as a signal for a biologically important event (conditioning).  Habituation can be defined as a reduction in responsiveness to a stimulus as a result of its repeated presentation.  Whitlow (1975) presented a loud tone to rabbits in a chamber and measured the change of blood flow in their ears in response to each presentation of the tone.  He found that on the first presentation (S1) there was a strong response, but on the second presentation (S2), after a 60 second delay, there was a weaker response.  If the interval was increased from 60 to 150 seconds the response to S2 was just as high as the response after S1.  This led Wagner (1976) to explain habituation in terms of memory, saying that the offset of S1 will leave a decaying representation of itself.  According to Wagner (1976, 1981) the representation can be in one of three states: two active states, A1 and A2, and one inactive state, in which the memory is not modifiable and is unable to influence the animal’s behaviour.  In the A1 state the representation can be thought of as being at the centre of the animal’s attention.  As it decays, it moves to the A2 state, which can be thought to be at the periphery of the animal’s attention.  It then decays to the inactive state.   Because of the way Wagner’s model works, a representation in the A2 state cannot move to an A1 state before it has completed its decay to the inactive state.  Once in the inactive state the representation can move to the A1 state.  If S2 is presented before the decay from A1 to A2 is complete – that is, within 150 seconds – and it matches the representation of S1, then habituation will be observed.  However, if the delay between S1 and S2 is longer than 150 seconds, then no habituation is observed, which is what Whitlow found.  Wagner’s model is very versatile and can be used to explain lots of data from learning and memory experiments.  For the moment, though, I have only discussed it in terms of habituation.  Before we can accept Wagner’s memory model of habituation we have to rule out some simpler explanations for Whitlow’s data.  One simple explanation is Effector fatigue.  If the physiological system that is responsible for overt behaviour is fatigued then it will not be able to respond to any stimulus within the period of fatigue.  Whitlow showed that Effector fatigue was not a good explanation for his results by changing the properties of the tone presented at S1 and S2.  While habituation was normal when the same tone was presented at S1 and S2, with a 60 second delay, there was no habituation if different tones were used.  Since overt behaviour was not impaired, Effector fatigue could be ruled out.  Another explanation is Receptor fatigue.  In this case, cells responsible for the reception of S1 might be fatigued after the offset of S1 and would therefore be less sensitive at the presentation of S2.  If the two tones presented at S1 and S2 are different then different receptors would be involved, but if the two tones at S1 and S2 are the same then the same receptors would be involved to process the two tones.  If these receptors are fatigued then they would be unable to respond appropriately at S2.  To determine whether Receptor fatigue could explain his results, Whitlow presented the same tone at S1 and S2, with a 60 second delay between the two.  Mid-way through the delay, however, there was a 2-second distractor – a flashing light and a buzz near the eye.  The distractor disrupted habituation, producing dishabituation, consequently showing that S2 is as well perceived as S1, and therefore ruling out Receptor fatigue as an explanation for the original habituation results.  The distractor can be thought of as interference, and since it occurred after the presentation of S1 it is called retroactive interference.  In terms of memory, the retroactive interference made the animals forget S1, and therefore there was no habituation at S2.  So habituation, a very simple procedure, involves memory, and it exists in many species, from sea slugs to humans.
+
+A different test of short-term memory is the radial arm maze.  In this an animal is allowed to visit four out of eight arms on the maze.  At the end of each visited arm is a food reward.  In between each visit to an arm the animal returns to a central hub.  Rats are readily able to complete this task with 8- or 12-arm mazes, but find the task difficult with 17 arms.  The rats could solve the problem of which arms to enter by following a stereotyped route, but observation shows that they don’t do this.  To test how long the memory for previously visited arms lasts, some test involve removing the animal after it has visited four arms for a short retention interval.  When it is replaced into the central hub all eight arms are open and the animal has to avoid the previously visited arms to find food in the remaining arms. Rats remember these visits for up to about four hours.  Memory during the radial maze task seems to be more resilient to retroactive interference than in habituation.  Beatty and Shavalia (1980) trained rats to complete a normal radial maze task, with a one-hour delay after the fourth arm had been entered.  In the interval the rats were required to complete a second radial maze task in a different room.  This second task appeared to have no effect on the rats’ memories for the first task, and Roberts (1981) was only able to produce retroactive interference in the radial maze by making the rats complete three distractor radial maze tasks in the interval of the first task.  The two examples of short-term memory given here (habituation and radial maze) show that the properties of short-term memory can vary according to task.
+
+Long-term memory.  As humans we have a remarkable ability to remember lots of information over the course of our lifetimes.  These characteristics of large capacity and durability can also be found in studies of long-term memory in animals.  As well as previously discussed examples of long-term memory in birds, such as Vaughan and Greene’s (1984) study with pigeons, and the remarkable memory feats of the Clark’s nutcracker, Miller and Berk (1977) demonstrated long-term memory in the African Claw-Toed Frog, Xenopus.  This animal undergoes a metamorphosis, over a period of 35 days, from a tadpole to an adult frog.  Miller and Berk trained tadpoles to move from a black to a white compartment in order to avoid an electric shock.  When tested for their memory of the task after their metamorphosis into frogs, the animals were still able to remember to avoid the black compartment.
+
+One reason for studying animal memory has been the hope that it will lead to an understanding of the neural processes that subserve the acquisition and storage of knowledge in both humans and animals.  The long-term retention of information can be divided into three phases – consolidation, retention, and retrieval, in which the animal forms a memory trace, stores information and acts on the memory when required.  Two theoretical frameworks have placed emphasis on different phases of this sequence.  Consolidation theories place most emphasis on the first two phases.  According to advocates of these theories forgetting is due to an inadequate trace being laid down or to the passing of time.  According to Retrieval theories the formation of a memory trace is instantaneous and once it is formed it remains intact.  This type of theory claims that forgetting is due to the animal’s inability to retrieve the information.  Consolidation theorists such as Hebb (1949) and Duncan (1949) claimed that long-term changes in the nervous system must occur for long-term retention of information.  According to Hebb memory depends on the virtually permanent formation of circuits of interconnected neurons.  Consolidation and rehearsal is needed to complete these connections.  Support for this idea comes from Duncan’s (1949) studies with Electroconvulsive shock (ECS).  He trained rats to move from one end of a box to the other when a light came on in order to avoid a shock.  He found that ECS immediately after a trial severely impaired the rats’ ability to remember the significance of the light.  One explanation for these findings is that the ECS prevented the consolidation of learning.  However, the results of another experiment, this time by Deweer, Sara, and Hars (1980) support the alternative class of Retrieval theories.  Deweer et al. trained rats to run through a maze with six choice points in it.  At the beginning of training the rats took 300 seconds to find their way to the end, but by the end they took only 30 seconds.  One group of rats were then given a 25-day delay before running the maze again.  They took, on average, 150 seconds to find their way to the end.  A second group were treated in the same way as the first, with the exception that, just before they were required to run the maze after the 25-day delay, they were placed into a wire mesh cage next to the apparatus for 90 seconds.  This treatment apparently had the effect of reactivating the memory because rats in this group took just 40 seconds to run to the end of the maze.  This experiment suggests that the reactivation treatment facilitated the retrieval process that consolidation theorists thought unimportant.  We can conclude that forgetting from long-term memory occurs for a variety of reasons.
+
+Associative conditioning I
+
+The purpose of the rest of the lecture was to consider
+
+1)  What animals learn about during Pavlovian conditioning, and
+
+2)  What determines the nature of behaviour resulting from conditioning
+
+Before Pavlovian conditioning, the presentation of a neutral stimulus, such as a tone, produces no learned effect in the animal.  During Pavlovian conditioning the previously neutral stimulus is paired with an unconditioned stimulus (US), such as food. The neutral stimulus is now called the conditioned stimulus (CS), because of the conditioning procedure.  The presentation of the US causes the animal to perform an unconditioned response (UR), such as approaching, salivating near and eating the food.  After a number of CS-US pairings the animal will produce a conditioned response (CR), such as salivation, whenever the CS is presented before the US, or even in the absence of the US.
+
+We can say that the CS activates a memory, or representation, of the US. However, some experimenters, such as Peter Holland, believe that the CS is able to activate some of the perceptual mechanisms that are normally activated by the US. We looked one of his experiments that indicates that he’s correct as rats behaved as though they were experiencing an unpalatable flavour when they only experienced a tone that was associated with the flavour. What might those perceptual mechanisms be?  Konorski believed that USs have two distinct characteristics – Specific and Affective.  Specific qualities of the US are things that make the US unique – flavour, if the US is food or liquid, where the US is presented, its duration, intensity, etc.  Affective qualities are those characteristics that the US has in common with other USs.  Food, water, and the opportunity to mate are all things that might be said to lead to a state of satisfaction in the animal, and are collectively called Appetitive USs. Mild electric shocks, illness and loud noises are all things that might be said to be unpleasant stimuli, that the animal might try to avoid if possible, and are therefore known as Aversive USs.
+
+So what determines the nature of behaviour resulting from conditioning?  Let’s consider the influence of the US.  Konorski said that when the CS activates a representation of the Specific qualities of the US then we can expect the CR to mimic the UR.  This is known as Stimulus Substitution and as evidence of this we can look at CRs made during a procedure known as autoshaping.  In pigeons if a CS is presented for a few seconds before the delivery of a US then over time the bird will start to make CRs (pecks) to the CS.  The bird doesn’t have to respond to the CS to gain a reward, but does anyway.  This is autoshaping.  If the CS signals a US of food then the CR that the pigeon makes looks a lot like pecks at grains of seed.  If the CS signals a US of water then the CR looks like the sort of pecks pigeons make to drink.  Konorski also said that when the CS activates a representation of the Affective properties of the US then we can expect a Preparatory Response.  One example of a preparatory response is a dog salivating during a tone that signals food.  Another might be to approach the location where food will be delivered whenever a tone sounds that signals food.  If the affective quality of the US is aversive, rather than approach the CS we might expect a withdrawal of responses.  This is what we see during conditioned suppression.  A rat that has already been trained to press on a lever to gain a food reward is the subjected to a Pavlovian conditioning procedure.  A CS is presented that signals a mild footshock (US).  After a few CS-US pairings the rat performs a CR of freezing during the CS, probably produced by anxiety in anticipation of the impending footshock.  The freezing behaviour produces a corresponding reduction in the number of lever presses made by the rat during the CS – this is the conditioned suppression.  Long box autoshaping is an example of where pigeons show both stimulus substitution and preparatory responses, but the chamber is set up to dissociate the two. In this case, the pigeon seems compelled to produce the both responses, which substantially interferes with the opportunity to eat the food.
+
+================================================================================
+  LECTURE 6
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 6 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 6: 
+Associative learning 2
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Associative Learning
+• What is learned in Pavlovian conditioning?
+• What determines the nature of the conditioned 
+response?
+•
+Stimulus substitution
+-
+Autoshaping
+-
+Food vs water
+•
+Preparatory response
+-
+Conditioned suppression
+
+--- Slide/Page 3 ---
+Associative Learning
+• What is learned in Pavlovian conditioning?
+• What determines the nature of the conditioned 
+response?
+•
+Stimulus substitution
+-
+Autoshaping
+-
+Food vs water
+•
+Preparatory response
+-
+Conditioned suppression
+• Compensatory response
+- CR opposes the effect of US
+- Drug tolerance 
+-
+Siegel (1977)
+
+--- Slide/Page 4 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Tolerance is a decrease in sensitivity to a drug as a result of
+repeated exposure to it.
+This tolerance results from compensatory mechanisms:
+Biological:
+Metabolic changes
+Synaptic changes
+Psychological:
+Conditioning affects homeostasis mechanisms
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 5 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Injection         
+ 
+Morphine          
+Analgesia
+ (CS)
+              
+     (US)
+       
+         (UR)
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 6 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Injection         
+ 
+Morphine          
+Analgesia
+ (CS)
+              
+     (US)
+       
+         (UR)
+CR
+Opposes UR
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 7 ---
+DRUG IN 
+ENVIRONMENT 
+A 
+DRUG IN 
+ENVIRONMENT 
+B 
+DRUG IN 
+ENVIRONMENT 
+A 
+Tolerance Test 
+Tolerance 
+Development 
+Phase 
+Tolerant
+Not Tolerant 
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 8 ---
+Conditioning
+Test
+Change in 
+body temp
+Group 1
+A: Ethanol; B: Saline
+A: Saline
+A: Ethanol
+Up
+Maintain
+Group 2
+B: Ethanol; A: Saline
+A: Saline
+A: Ethanol
+Maintain
+Down
+Crowell, Hinson, & Siegel (1981)
+Hypothermic effects of alcohol
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 9 ---
+Compensatory CRs and Drug tolerance
+Newlin (1986): Humans
+Group
+Conditioning Test
+Experimental
+V&T
+Tonic water (no alcohol)
+Control
+Water
+Water 
+DVs = pulse transmission time (c.f. BP)
+    and skin temperature (flushing)
+No Change
+Decrease
+
+--- Slide/Page 10 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Group
+ Stage 1
+      Stage 2
+Stage 3
+M-P-M              Morphine
+      Saline              Morphine
+M-Rest-M
+   Morphine
+       Rest
+        Morphine
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 11 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Compensatory CRs and Drug tolerance
+more tolerance
+less tolerance
+
+--- Slide/Page 12 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Group
+ Stage 1
+      Stage 2
+Stage 3
+M-P-M              Morphine
+      Saline              Morphine
+M-Rest-M
+   Morphine
+       Rest
+        Morphine
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 13 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Compensatory CRs and Drug tolerance
+more tolerance
+less tolerance
+
+--- Slide/Page 14 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Conditioning model of drug tolerance suggests
+• That compensatory CRs will be most evident in contexts 
+associated with drug-taking. Therefore when drugs are taken in 
+unusual contexts the compensatory CR will be less evident and 
+likelihood of overdose is greater
+• Extinction of drug-taking is context-dependent. Drug users often 
+self-report relapse after returning to normal environment
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 15 ---
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 16 ---
+Group
+Stage 1
+Test
+Result
+Heroin Same
+A: Heroin administration
+A: OD heroin
+Heroin Different
+B: Heroin administration
+A: OD heroin
+No heroin
+No heroin
+A: OD heroin
+Siegel, Hinson, Krank, & McCully (1982)
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 17 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Conditioning model of drug tolerance suggests
+• That compensatory CRs will be most evident in contexts 
+associated with drug-taking. Therefore when drugs are taken in 
+unusual contexts the compensatory CR will be less evident and 
+likelihood of overdose is greater
+• Extinction of drug-taking is context-dependent. Drug users often 
+self-report relapse after returning to normal environment
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 18 ---
+Group
+Conditioning
+Extinction
+Post-extinction test in 
+Context A
+Extinction Same
+A: cocaine-floorX-, saline-floorY
+A: floorX-extinction
+Low preference for 
+floorX
+Extinction Different A: cocaine-floorX-, saline-floorY
+B: floorX-extinction
+High preference for 
+floorX
+Parker, Limebeer and Slomke (2006)
+Compensatory CRs and Drug tolerance
+FloorX: holes in floor
+FloorY: sandpaper on floor
+Context A: black walls and lid
+Context B: white and black striped walls and white lid
+
+--- Slide/Page 19 ---
+The Conditions of Learning
+• Principle of contiguity, but
+- Taste aversion conditioning
+- Rescorla’s truly random control (1967)
+- Biological Relevance
+• Surprise
+- Blocking (1969) Kamin
+- Rescorla-Wagner (1972)
+• Attention
+- Latent Inhibition
+• Wagner
+• Mackintosh
+• Pearce-Hall
+
+--- Slide/Page 20 ---
+• Contiguity
+- Events that occur close together in time or 
+space will become readily associated
+
+--- Slide/Page 21 ---
+Before conditioning
+Bell
+No Response
+       Food
+ (unconditioned stimulus, US)
+Salivation
+(unconditioned response, UR)
+During conditioning
+       Bell
+ 
+       Food
+ (unconditioned stimulus, US)
+       Bell
+ (conditioned stimulus, CS)
+Salivation
+(conditioned response, CR)
+Pavlovian or Classical conditioning
+
+--- Slide/Page 22 ---
+Saccharin            Illness
+Smith & Roll (1967)
+Taste aversion conditioning
+Conditioning without contiguity
+
+--- Slide/Page 23 ---
+Garcia & Koelling (1966)
+Training
+Test
+Volume drunk
+Saline       illness
+Saline
+small
+Saline       shock
+Saline
+large
+Conditioning without contiguity
+
+--- Slide/Page 24 ---
+Garcia & Koelling (1966)
+Training
+Test
+Volume drunk
+Saline       illness
+Saline
+small
+Saline       shock
+Saline
+large
+LTW        illness  
+LTW
+large
+LTW        shock  
+LTW
+small
+LTW = light + tone + water
+Conditioning without contiguity
+
+--- Slide/Page 25 ---
+No conditioning even with contiguity
+Rescorla (1967) Truly random control
+Standard group
+Jumbled group
+Conditioned 
+stimulus
+Unconditioned 
+stimulus
+Conditioned 
+response
+
+--- Slide/Page 27 ---
+No conditioning even with contiguity
+Rescorla (1967) Truly random control
+Standard group
+Jumbled group
+Conditioned 
+stimulus
+Unconditioned 
+stimulus
+Conditioned 
+response
+
+--- Slide/Page 28 ---
+No conditioning even with contiguity
+Rescorla (1967) Truly random control
+Standard group
+Jumbled group
+Conditioned 
+stimulus
+Unconditioned 
+stimulus
+Conditioned 
+response
+Contingency as important as contiguity
+
+--- Slide/Page 29 ---
+• Contingency
+- A regular predictive relationship between 
+contiguous events (CS-US)
+
+--- Slide/Page 30 ---
+The Conditions of Learning
+• Principle of contiguity, but
+- Taste aversion conditioning
+- Rescorla’s truly random control (1967)
+- Biological Relevance
+• Surprise
+- Blocking (1969) Kamin
+- Rescorla-Wagner (1972)
+• Attention
+- Latent Inhibition
+• Wagner
+• Mackintosh
+• Pearce-Hall
+
+--- Slide/Page 31 ---
+Kamin’s (1969) Blocking Experiment
+Stage 1
+Stage 2
+Test with Light
+Group C
+Light + Noise      shock
+strong CR
+Group E
+Noise      shock
+Light + Noise      shock
+weak cr
+Group S
+Noise      shock
+Light + Noise      SHOCK
+strong CR
+Kamin (1969) Blocking
+
+--- Slide/Page 32 ---
+Lever Pressing
+60 s
+CS = Light
+US= Footshock
+0.5 s
+
+--- Slide/Page 33 ---
+Kamin’s (1969) Blocking Experiment
+Stage 1
+Stage 2
+Test with Light
+Group C
+Light + Noise      shock
+strong CR
+Group E
+Noise      shock
+Light + Noise      shock
+weak cr
+Group S
+Noise      shock
+Light + Noise      SHOCK
+strong CR
+Kamin (1969) Blocking
+
+--- Slide/Page 34 ---
+Dickinson, Shanks & Evenden (1984)
+Kamin’s (1969) Blocking Experiment
+Stage 1
+Stage 2
+Assess Missiles
+Group C
+Mines + Missiles      Tanks
+high evaluation
+Group E
+Mines     Tanks
+Mines + Missiles      Tanks
+low evaluation
+
+--- Slide/Page 35 ---
+Haselgrove and Evans (2010)
+
+--- Slide/Page 36 ---
+The Conditions of Learning
+• Principle of contiguity, but
+- Taste aversion conditioning
+- Rescorla’s truly random control (1967)
+- Biological Relevance
+• Surprise
+- Blocking (1969) Kamin
+- Rescorla-Wagner (1972)
+• Attention
+- Latent Inhibition
+• Wagner
+• Mackintosh
+• Pearce-Hall
+
+--- Slide/Page 37 ---
+Latent Inhibition
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 38 ---
+Three Theories of Attention
+Wagner (1981) – attention is high to novel stimuli
+      attention is low to familiar stimuli
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 40 ---
+Three Theories of Attention
+Wagner (1981) – attention is high to novel stimuli
+      attention is low to familiar stimuli
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 41 ---
+Three Theories of Attention
+Mackintosh (1975) – attention is high to novel stimuli
+                  attention is high to signals for important events
+                      attention is low to irrelevant stimuli
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 43 ---
+Three Theories of Attention
+Mackintosh (1975) – attention is high to novel stimuli
+                  attention is high to signals for important events
+                      attention is low to irrelevant stimuli
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 44 ---
+Three Theories of Attention
+Pearce-Hall 
+attention is high while learning about a stimulus
+attention is low once learning is complete
+•
+Automatic versus Controlled Processing
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 46 ---
+Three Theories of Attention
+Pearce-Hall 
+attention is high while learning about a stimulus
+attention is low once learning is complete
+•
+Automatic versus Controlled Processing
+         STAGE 1
+                  STAGE 2
+Group E         Light    Nothing               Light    Food
+Group C
+                                Light     Food
+
+--- Slide/Page 47 ---
+Experiment by Kaye & Pearce (1984)
+Group None
+Group Continuous
+Group Partial
+Light       Nothing
+Light        Food
+Light        Food or
+Light        Nothing
+
+--- Slide/Page 49 ---
+Light Orientation
+0
+10
+20
+30
+40
+50
+60
+70
+Session
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13
+Group None
+Group Continuous
+Group Partial
+Light       Nothing
+Light        Food
+Light        Food or
+Light        Nothing
+
+--- Slide/Page 50 ---
+Conclusions
+• The conditioned response (CR) may:
+‣ be a substitute for the US
+‣ be in preparation for the US
+‣ compensate for the UR
+• Various factors influence the conditions of learning:
+‣ Contiguity
+‣ Surprise
+‣ Attention
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 6  notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 6
+
+Konorski’s accounts of preparatory responses turned out to be a bit simplistic.  We can also add Compensatory responses to our list of how the US influences the CR.  Drug tolerance effects can be explained partly by Pavlovian conditioning if we consider compensatory CRs.  The injection of a particular drug could be considered to be the CS.  The US is the drug itself.  The UR is the effect the drug has on the body.  The CR opposes the effect of the drug.  Shep Siegel demonstrated the effectiveness of this analysis of drug tolerance by injecting two groups of rats with morphine.  Both showed tolerance to the drug after a few injections.  In stage 2 of the experiment one group, M-P-M, were given 12 injections of saline.  The other group, M-Rest-M received no injections.  When both groups were injected with morphine in the third stage the drug had a much greater effect on M-P-M rats – their tolerance to the drug was diminished when compared with the M-Rest-M rats.  The effect was not because of the time elapsed between the last injection of morphine in Stage 1 and the first of Stage 3, because we would expect both groups to perform similarly.  Instead, the CS-US pairing of injection-drug is broken for the M-P-M rats, and the compensatory CR goes into extinction.  We can consider the same psychological analysis of drug tolerance in humans.  Instead of the injection as the CS consider the CS to be the context or location in which the drug is usually taken.  The CR compensates for the effect of the drug when the body feels the stimulation of the injection in a familiar context (CS).  The drug abuser has to take more of the drug for it to have an effect.  When the drug is taken in a new context there is a lower compensatory CR, because the CS is different to usual.  The effect of the drug is much greater in a new context.
+
+It’s not clear what determines what kind of conditioned response will be performed -sometimes the CR mimics the UR, sometimes the response is preparatory, sometimes compensatory.  We can probably conclude that whatever the response performed it is usually in the best interests of the animal.  Often the signal for food is in close proximity to the food itself, so a preparatory response, or a response that mimics the UR will be appropriate.  Similarly an animal that runs away from a signal for an aversive event will often be running away from the event itself.
+
+Our task now is to identify the circumstances that are responsible for this learning.  One obvious condition for learning to occur is contiguity.  This is the idea that events that occur close together in time or space will become readily associated.  Eye-blink conditioning only seems to be successful if there is a contiguous relationship between the CS and the US.  Contiguity between events is important, but there are some important caveats to the Principle of Contiguity that show it is not the only important factor in whether learning will occur.
+
+First is the finding of Smith & Roll (1967) that rats can learn the relationship between the flavour of a food (CS) and illness (US), even when the two events take place six hours apart, i.e. when the CS and US are not particularly contiguous.  This taste-aversion conditioning was not the result of the flavour remaining in the mouth of the rat because a different, but familiar, flavour presented between the CS and the US did not affect conditioning.  A second finding to question the Principle of Contiguity is Garcia & Koellings’ (1966) finding that rats will readily learn that a light and clicker signal a footshock, but not that they signal the onset of illness.  Similarly, the flavour of saline can be associated with illness, but not a footshock.  This biologically relevant finding was despite the fact that all of the CS-US pairings in Garcia & Koellings’ experiment were contiguous.  The third experiment to question the importance of contiguity was Bob Rescorla’s (1967) truly random control.  He showed that unless there was a clear predictive relationship between the CS and US (a contingency) then even though there is contiguity between them (i.e. they occur close together in time) no learning will occur.
+
+Leon Kamin showed that for conditioning to be successful the US has to be surprising, and not just contiguous with, or contingent on, the CS.  The discovery of blocking was the evidence for Kamin’s (1969) belief that the US should be unexpected for learning to occur.  In Kamin’s experiment, in stage 1 a group of rats (blocking group) learned that a noise (CS) signalled a mild footshock (US).  In stage 2 a light and the noise were presented in compound, and training continued.  When the rats were tested for the presence of a CR (freezing behaviour) when the light was presented alone, they showed a much lower response than a group that were always trained with the compound CS of a light and a noise (control group).  Learning about the significance of the light was said to have been blocked by the previously learned relationship between the noise and the footshock. Blocking did not occur in a third group of rats (group surprise) that had the same training as the blocking group but in which the footshock was more intense in stage 2 of training.  The results show that for the blocking group, blocking occurred because the US was not unexpected by the rats in stage 2.  This was because of their prior training in stage 1.  For group surprise the more intense footshock in stage 2 was unexpected so new learning about the significance of the light occurred.  For the control group, whose learning began in stage 2, both the light and the noise signalled an unexpected US, so both were learned about.  The influential Rescorla-Wagner (1972) model of associative learning was built upon Kamin’s blocking data.
+
+Cognitive psychologists have long known the importance of selective attention in information processing in humans.  We are exposed to many more sources of information than we can deal with at once so some sort of selection is necessary so we can attend to one source of information while another is being ignored.  If some cues are less attended to then learning about them won’t progress as quickly as those that are receiving the animal’s full attention.  This seems to be the case in a procedure known as Latent Inhibition (LI).  For one group, the experimental group, a light is presented in stage 1 that does not signal an outcome for the animal.  In stage 2 the light suddenly becomes a signal for the imminent delivery of food.  When compared with a control group that only begin training in stage 2, and always learn that light signals food, the experimental group are slower to learn about the relationship between the light and the food in stage 2.  The explanation for this result is that during stage 1 the experimental group learn that the light doesn’t signal anything and come to ignore it.  In stage 2 they fail to notice its significance as quickly as the control group, because they’re not paying it any attention, and therefore learn more slowly.
+
+What determines whether animals will attend to stimuli?  Three theories of learning based on attention have been proposed.  Wagner says that attention will be high to novel stimuli, but low to familiar stimuli.  In the LI procedure the light is familiar to the experimental group in stage 2, but is novel to the control group.  This accounts for the different rates of learning in the two groups.  Mackintosh also says that attention will be high to novel stimuli, but also that attention is high to signals for important events, and low to irrelevant stimuli.  In LI, for the experimental group the light is novel at first so attention is high, but it is irrelevant in stage 1, so attention to it drops off.  In stage 2 the light signals an important event so attention is gradually paid to it, accounting for the fact that the rats do eventually learn the relationship between light and food.  However, for the control group the light is both novel and important from the beginning of training, so learning is faster than in the experimental group.  Pearce-Hall made use of some principles of attention in human cognitive psychology and predicted that attention would be high whilst learning about a stimulus is ongoing, but low once learning is complete.  This was because, they said, there is a distinction between controlled and automatic processing.  In controlled processing deliberate attention must be paid to the task at hand, but once the task is learned the processing becomes automatic, and attention paid to the task is low.  In terms of LI, Pearce-Hall say that attention is high to the light in stage 1 for the experimental group, but that this attention drops off as the rats learn that it signals no outcome.  In stage 2 attention is low to the light at first, but when the rats realise that food is delivered attention becomes high again.  For the control group attention is high to the light, but once learning about the relationship between light and food is complete attention to the light is low.
+
+To determine which of the theories is correct in explaining LI Kaye & Pearce (1984) conducted an experiment with three groups.  For Group None a light signalled no outcome.  For Group Continuous a light always signalled the delivery of food.  For Group Partial the light signalled food on half of the trials, and nothing on the other trials.  Kaye & Pearce measured the Orienting Response (OR) of the rats – how often they looked at the light when it was on.  The vigour of the OR is thought to provide an index of how much attention is being paid to the light.  The results showed that the OR was high for all three groups at first, but that it dropped off for groups None and Continuous, but always remained high for Group Partial.  Since Mackintosh says that attention should remain high for important events, the finding that attention decreased for Group Continuous is a bad result for his theory.  Wagner says that attention should be low to familiar stimuli, but attention to the light remained high for Group Partial, which is a bad result for him.  The only theory that is consistent with the results is Pearce-Hall: once learning is complete for Groups None and Continuous attention is low, and since animals can’t learn what the light signals for Group Partial attention remains high.
+
+================================================================================
+  LECTURE 7
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 7 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 7: 
+Learning in humans
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+Can we apply Pavlovian and Instrumental 
+conditioning to human behaviour?
+•
+Pavlovian conditioning in humans
+-
+Conscious and unconscious effects
+-
+How to treat drug use
+•
+Abstinence; extinction; aversion therapy
+-
+How to treat phobia
+•
+Systematic desensitisation; exposure therapy;  VR therapy
+•
+Instrumental conditioning in humans
+-
+What’s reinforcing?
+-
+When to present a reinforcer?
+-
+Some applications
+•
+Effects of delay
+•
+Social reinforcement in classrooms
+•
+Conditioned reinforcement in children and adults
+
+--- Slide/Page 3 ---
+Some examples in human behaviour
+•
+Sexual conditioning (e.g., Rachman 1966)
+•
+Drug tolerance (e.g., Newlin 1986)
+•
+Blocking (e.g., Dickinson et al. 1984)
+
+--- Slide/Page 4 ---
+Dickinson, Shanks & Evenden (1984)
+Kamin’s (1969) Blocking Experiment
+Stage 1
+Stage 2
+Assess 
+Missiles
+Group C
+Mines + Missiles      Tanks
+high evaluation
+Group E
+Mines     Tanks
+Mines + Missiles      Tanks
+low evaluation
+
+--- Slide/Page 5 ---
+Some examples in human behaviour
+•
+Sexual conditioning (e.g., Rachman 1966)
+•
+Drug tolerance (e.g., Newlin 1986)
+•
+Blocking (e.g., Dickinson et al. 1984)
+•
+2-system hypothesis: non-cognitive/cognitive; unconscious/
+conscious (e.g., Konorski, 1967; Squire, 1992; Öhman & Mineka, 
+2001)
+
+--- Slide/Page 6 ---
+Conscious and unconscious conditioning
+•
+Taste aversion (anecdotes)
+•
+Öhman and Soares (1998)
+Snake               Shock
+Spider              No shock
+30ms
+anticipation
+no anticipation
+
+--- Slide/Page 7 ---
+Cravings for drugs
+• Anecdotal evidence - smokers often report reduced desire to 
+smoke where smoking is forbidden anyway (e.g., hospitals)
+• Droungas et al. (1995)
+- Two groups of smokers shown a video of smoking-related 
+cues. One group was allowed to smoke and the other was 
+forbidden
+- Group smoke reported a greater urge to smoke, greater 
+feelings of withdrawal, and were quicker to smoke after the 
+session
+
+--- Slide/Page 8 ---
+Conditioning of smoking
+Time
+CS
+Taste of cigarette
+Absorption of nicotine
+US
+CR
+UR
+Pleasurable response
+Pleasurable response
+
+--- Slide/Page 9 ---
+How to treat?
+Asymptote
+Spontaneous 
+Recovery
+Drops of Saliva
+Acquisition
+Extinction
+Abstinence?
+
+--- Slide/Page 10 ---
+How to treat?
+Abstinence?
+Hunt, Barnett, & Branch (1971)
+
+--- Slide/Page 11 ---
+How to treat?
+Asymptote
+Spontaneous 
+Recovery
+Drops of Saliva
+Acquisition
+Extinction
+Extinction?
+
+--- Slide/Page 12 ---
+Extinction
+Time
+CS
+Taste of cigarette
+No nicotine in cigarette
+US
+CR
+UR
+Pleasurable 
+response to taste 
+eliminated
+
+--- Slide/Page 13 ---
+Counterconditioning
+• The extinction of a(n undesirable) response through the 
+establishment of an association between the CS and 
+another (more desirable) response
+•
+A new CR is established by pairing the CS with a more 
+salient US
+
+--- Slide/Page 14 ---
+Time
+CS
+Taste of cigarette
+Emetic drugs
+US2
+UR2
+Nausea
+US1
+UR1
+CR
+Absorption of nicotine
+Pleasurable response
+Conditioned nausea
+Aversion therapy using principles of 
+counterconditioning
+
+--- Slide/Page 15 ---
+• Raymond (1964) 63-year-old alcoholic
+• Nathan (1976) 14-year-old boy: smoking
+• A Clockwork Orange (1971)
+Aversion therapy examples
+
+--- Slide/Page 16 ---
+What is a phobia?
+Fear
+Reality of Danger
+A
+B
+C
+D
+A:  Office worker
+B:  Oil rig worker
+C:  Bomb disposal expert
+D:  Phobia
+“Irrational” fear of an “objectively harmless” stimulus
+
+--- Slide/Page 17 ---
+What is a phobia?
+DSM-IV categories: 
+Agoraphobia -     Public places outside home, e.g. shops trains
+Social Phobia - 
+Being watched/appraised by other people
+Specific Phobia - Grouped into:
+- Animals and insects
+- Blood/injury/medical (e.g. dentist)
+- Situational (e.g. driving, crowds, enclosure, air travel)
+- Natural Environment (e.g. heights, water)
+
+--- Slide/Page 18 ---
+Conditioning and phobia
+Sight of drill
+Pain
+CS
+US
+CR
+Anxiety
+• Phobias are often to stimuli other than the immediate CS
+but..
+
+--- Slide/Page 19 ---
+Second-order conditioning
+Group
+Phase 1
+Phase 2
+Test tone
+Pair-Pair
+Light       shock
+Tone        Light
+CR
+Pair-Unpair
+Light       shock
+Tone    /   Light
+cr
+Unpair-Unpair
+Light  /    shock
+Tone    /   Light
+cr
+Rizley & Rescorla (1972)
+
+--- Slide/Page 20 ---
+Conditioning and phobia
+Sight of drill
+Pain
+First order
+CS
+US
+CR
+Anxiety
+CS
+CS
+Waiting room
+Chair
+Higher order
+• Phobics can’t always recall traumatic experience
+• People become phobic to things they’ve never experienced
+but..
+
+--- Slide/Page 21 ---
+Conditioning and phobia
+Sight of drill
+Pain
+First order
+CS
+US
+CR
+Anxiety
+CS
+CS
+Waiting room
+Chair
+Higher order
+• Phobics can’t always recall traumatic experience
+• People become phobic to things they’ve never experienced
+but..
+
+--- Slide/Page 22 ---
+Conditioning and phobia
+Sight of drill
+Pain
+First order
+CS
+US
+CR
+Anxiety
+CS
+CS
+Waiting room
+Chair
+Higher order
+• Phobics can’t always recall traumatic experience
+• People become phobic to things they’ve never experienced
+but..
+
+--- Slide/Page 23 ---
+Conditioning and phobia
+Rachman (1990)
+• Vicarious conditioning
+• Information/Instruction
+Mineka and Cook (1988)
+Fear
+No fear
+
+--- Slide/Page 24 ---
+Conditioning and phobia
+Rachman (1990)
+• Vicarious conditioning
+• Information/Instruction
+Mineka and Cook (1988)
+CS
+US
+UR - Fear
+
+--- Slide/Page 25 ---
+Conditioning and phobia
+Rachman (1990)
+• Vicarious conditioning
+• Information/Instruction
+Mineka and Cook (1988)
+CS
+CR (fear)
+
+--- Slide/Page 26 ---
+How to Treat?
+Mary Cover Jones (1924)
+Behaviour Therapy
+•
+Baby Peter (sequel to Baby Albert)
+•
+Tried ‘modelling’ at first - observing others 
+interacting happily
+•
+Developed a programme of desensitisation
+
+--- Slide/Page 27 ---
+Systematic desensitisation 
+Wolpe & Lazarus (1969)
+•Cues associated with anxiety listed and ranked
+•Relaxation paired with anxiety cues
+•New association with relaxation reduces effectiveness 
+of cues
+
+--- Slide/Page 28 ---
+Other treatments
+•Exposure therapy (including ‘Flooding’)
+•Virtual reality therapy
+
+--- Slide/Page 29 ---
+Can we apply Pavlovian and Instrumental 
+conditioning to human behaviour?
+•
+Pavlovian conditioning in humans
+-
+Conscious and unconscious effects
+-
+How to treat drug use
+•
+Abstinence; extinction; aversion therapy
+-
+How to treat phobia
+•
+Systematic desensitisation; exposure therapy;  VR therapy
+•
+Instrumental conditioning in humans
+-
+What’s reinforcing?
+-
+When to present a reinforcer?
+-
+Some applications
+•
+Effects of delay
+•
+Social reinforcement in classrooms
+•
+Conditioned reinforcement in children and adults
+
+--- Slide/Page 30 ---
+Skinner and instrumental conditioning
+•
+Reinforcers - increase tendency to repeat target 
+behaviour
+-
+Positive reinforcers
+-
+Negative reinforcers
+•
+Punishment - decrease tendency to repeat target 
+behaviour
+
+--- Slide/Page 31 ---
+Butler (1954)
+• Access to blue or yellow doors - blue gave 
+access to view of room for 30s
+• 1 trial per min
+• Sensory reinforcement
+• Montgomery (1954) - rats in complex mazes
+• Jones, Wilkinson, & Braden (1961) - humans with 
+unpredictable lights
+ Primary reinforcers
+What is reinforcing?
+
+--- Slide/Page 32 ---
+Premack principle (1965, 1971)
+• Preferred activities can act as reinforcers for less preferred 
+activities
+• Preference measured by likelihood to engage in particular 
+behaviour
+What is reinforcing?
+
+--- Slide/Page 33 ---
+Premack principle (1965, 1971)
+• Homme et al. (1963)
+• Preferred activities can act as reinforcers for less preferred 
+activities
+• Preference measured by likelihood to engage in particular 
+behaviour
+What is reinforcing?
+
+--- Slide/Page 34 ---
+Secondary (conditioned) reinforcers
+• Acquire reinforcing properties through experience
+• Paired with primary reinforcers
+• Need to avoid extinction
+What is reinforcing?
+
+--- Slide/Page 35 ---
+• Poulson (1983) - smiling reinforces behaviour in 3-month 
+old children
+• Warren and Cairns (1972) - ‘good’ is a more effective 
+reinforcer if paired with sweets
+• Allen et al. (1964) - Ann, nursery school
+• 1 day of training - 10% to 60% time spent with children
+What is reinforcing?
+ Social reinforcers
+
+--- Slide/Page 36 ---
+Ratio
+Interval
+Fixed
+Variable
+FR
+FI
+VI
+VR
+When to present a reinforcer
+
+--- Slide/Page 37 ---
+Dickinson, Watt, and Griffiths (1992)
+Lever presses per 
+minute
+0
+5
+10
+15
+20
+Delay of reinforcement (s)
+0
+2.5
+10
+25
+70
+100
+When to present a reinforcer
+Delay of reinforcement
+
+--- Slide/Page 38 ---
+When to present a reinforcer
+Lever presses per 
+minute
+0
+5
+10
+15
+20
+Delay of reinforcement (s)
+0
+2.5
+10
+25
+70
+100
+• Less of a problem with humans
+• e.g.  Assignment grades
+• but… Shanks, Pearson, and Dickinson (1989)
+Delay of reinforcement
+
+--- Slide/Page 39 ---
+• Delay reduces incentive
+• Rachlin and Green (1972)
+R1 : 2s access to food immediately
+R2 : 4s access to food after 4s
+• Time between trials constant so responses to 
+R2 would lead to twice as much food
+When to present a reinforcer
+Delay of reinforcement
+
+--- Slide/Page 40 ---
+Kirby and Herrnstein (1995)
+• $12 in 6 days
+• $16 in 12 days
+Roll, Reilly and Johanson (2000)
+• Smokers offered $1 for foregoing a puff every 5 minutes
+• Half told money given at end of session, others in 3 weeks
+• Delay caused 20x more smoking 
+When to present a reinforcer
+Delay of reinforcement
+
+--- Slide/Page 41 ---
+Secondary reinforcement:
+The token economy
+• If children behave in class the token (conditioned reinforcer) 
+can be delivered immediately
+• Can be exchanged for a wide range of primary reinforcers, so 
+different children can be reinforced differently
+Applications
+
+--- Slide/Page 42 ---
+Fox, Hopkins, and Anger (1987)
+• Reduction of injuries in mine workers using token economy
+• 12-year period, injuries fell by 68% and 85%
+• Cost of injuries per year $260k
+• Cost of tokens $12k
+• Unions insisted on writing tokens into contracts
+Secondary reinforcement:
+The token economy
+Applications
+
+--- Slide/Page 43 ---
+Can we apply Pavlovian and Instrumental 
+conditioning to human behaviour?
+•
+Pavlovian conditioning in humans
+-
+Conscious and unconscious effects
+-
+How to treat drug use
+•
+Abstinence; extinction; aversion therapy
+-
+How to treat phobia
+•
+Systematic desensitisation; exposure therapy;  VR therapy
+•
+Instrumental conditioning in humans
+-
+What’s reinforcing?
+-
+When to present a reinforcer?
+-
+Some applications
+•
+Effects of delay
+•
+Social reinforcement in classrooms
+•
+Conditioned reinforcement in children and adults
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 7 notes.docx
+────────────────────────────────────────────────────────────
+
+Lecture 7
+
+We revisited some examples of Pavlovian conditioning in human behaviour and considered that in some examples participants might have been consciously aware of the contingencies between events, but not in others. In fact there is evidence for both conscious and unconscious processes in human conditioning, so some theorists have suggested a 2-system theory. We looked again at evidence that cravings for drugs (e.g., alcohol, cigarettes, and narcotic drugs) can be the result of conditioning. If this is the case then how can the principles of conditioning be used in treatment of drug use? We used smoking as an example. The CS can be thought of as the taste of the cigarette, and the US is the absorption of nicotine into the bloodstream. This absorption evokes a pleasurable US for the smoker. Following sufficient pairings, the CR also evokes pleasure. To encourage the smoker to quit smoking we want to prevent the CR from occuring. Abstinence (will-power) is unlikely to work because the CS-US pairing is not broken by abstinence, and it only takes one or two experiences to relapse. Another possibility to prevent the CR from occuring is extinction. We could arrange it so that the cigarette tasted the same but contained no nicotine. This would prevent the US from occurring and the CR would go into extinction. This treatment is likely to be unsuccessful, however, because it is likely that the smoker will be exposed to nicotine in the future, and the CR will recover. An alternative to extinction is counterconditioning. This is the basis of aversion therapy in humans. In counterconditioning the CR is not extinguished, but is instead replaced with another CR. This is achieved by establishing a new CR to a second US. In treating drug abuse the presentation of a US that causes nausea, instead of pleasure, has been reported. Over time the CS evokes an aversive, rather than an appetitive, CR. It has been argued that this counterconditioning is again not particularly helpful for treating maladaptive Pavlovian conditioning that involves relatively simple CSs. This is because it is likely the CS will be experienced in the absence of the aversive US at some time in the future.
+
+We considered another maladaptive behaviour in humans – phobia – and how this could be the result of conditioning. Sometimes the direct CS (e.g., a dentist’s drill) is not the main phobic stimulus, but other things associated with the drill, such as the dentist’s chair or waiting room. We looked at second-order and higher-order conditioning effects to account for these associations. Even without direct experience of a traumatic US or pain-causing CS, humans could form an association via vicarious conditioning, even if the UR is evoked via story-telling. We considered how counterconditioning has been successfully applied in a type of cognitive behavioural therapy known as systematic desensitisation. Joseph Wolpe is most associated with this technique, though one of John Watson’s students, Mary Cover Jones, used it first in the 1920s (Google is your friend for finding out more about some of these names). In systematic desensitisation the therapist performs structured interviews with the patient to identify the sources of their anxiety, or other disordered behaviour. The therapist can then list these sources, or cues, in order of their likelihood to evoke anxiety. For example, the patient may be afraid of enclosed spaces. Imagining being locked in a small space could evoke a great deal of anxiety in the patient, while imagining walking into a building from outdoors evokes less anxiety. The therapist asks the patient to imagine these anxiety-related situations in order of their effectiveness, and on each occasion asks the patient to perform relaxation exercises. If at any point the patient feels anxious during the session, it is terminated. In the next session the therapist again moves through the list of cues asking the patient to imagine each situation, but on each occasion relaxation replaces anxiety. This goes on until the patient is able to imagine the worst situation without feeling anxious. This therapy depends on imagined interactions with the US, so other therapists have used exposure therapy to try to replace the learned fear/anxiety with more calm responses. There are ethical issues to consider with this approach, particularly for some versions of exposure therapy such as flooding, so more recently, therapists have turned to VR to try to set up an immersive and realistic experience without any real danger to the patient.
+
+For the rest of the lecture, we turned to instrumental conditioning in humans. A reinforcer is an event that strengthens the association between a stimulus and a response, and makes is more likely that the response will occur again in the future. We identified different kinds of reinforcer. Primary reinforcers are those that need no experience to be effective. Early psychologists realised the importance of these reinforcers for changing an animal’s behaviour. Access to food, water, and sex have all been used as primary reinforcers. Perhaps not as obvious is the importance of access to sensory stimulation. This was shown by giving monkeys access to a view of their holding room if they pushed a particular door. Similar effects have been shown with rats exploring complex mazes, and humans being given access to fairy lights in a darkened room.
+
+What determines if a primary reinforcer will be effective? Premack argued that this could be determined by observing the likelihood of a subject engaging in a particular behaviour. He said any behaviour that was less preferred could be reinforced by being given the opportunity to engage in a behaviour that was more preferred. An obvious example is a rat pressing a lever for food, or in humans, eating a less preferred food with the promise of being given a more preferred food. Homme and colleagues (1963) used the Premack principle to reinforce good behaviour in nursery children using creative activities that the children preferred to engage in.
+
+Some reinforcers aren’t effective from birth. Their value has to be learned, and for this reason they are called secondary or conditioned reinforcers. The obvious example of this in humans is money. Babies would not value money, but as they learn that it can buy them other items, they begins to want it. It ends up having a value of its own to people, even though it’s worthless if not exchanged for something else of value. What other conditioned reinforcers can you think of?
+
+Social reinforcement could be thought of as a category of both primary and secondary reinforcement. Smiling reinforces behaviour in three month-old infants, so may be thought of as a primary reinforcer. On the other hand, using the word ‘good’ is a secondary social reinforcer because it has been paired with primary reinforcers such as cuddles or sweets in the past. One example of the use of social reinforcement to change someone’s behaviour is that of Ann, studied by Allen et al. (1964). She was a nursery school child who engaged in a number of odd behaviours, such as talking very quietly, poking and pinching her skin, and talking only to adults. One may conclude Ann was an unhappy and insecure child, but Allen et al. realised such behaviour led to social contact with adults. Instead of reinforcing her strange behaviours with attention Allen et al. instructed teachers only to give Ann attention when she was playing with other children. Within a day her contact with children went from 10 to 60%.
+
+When should a reinforcer be presented? We reminded ourselves that we’ve considered this to some extent before, by noting the different patterns of responding different schedules of reinforcement produce. We also looked at what happens if there is a delay before reinforcement. It may seem obvious that reinforcing a behaviour is best as soon as possible after the response has been made, but this is not necessarily the case. For humans our behaviour can be reinforced many weeks after a response has been made, but this is likely because of language, which seems to ‘bridge’ the gap between a behaviour and reinforcement. Dickinson et al. (1992) showed that a rat’s likelihood of responding on a lever in a conditioning chamber decreased as a function of the delay of reinforcement. One possibility for this effect could be forgetting. However, it seems likely, given the rat performs many different behaviours, that it has difficulty remembering which response led to the reinforcement. When Shanks et al. (1989) reinforced humans in a similar manner to Dickinson et al., they also found it difficult to learn to make the response that had led to reward. Also, delay of reinforcement seems to reduce the incentive value of the reinforcer. Humans prefer to take a lower-value reward sooner than a high-value reward later, and pigeons similarly choose to take a short period of access to food if it is offered frequently than a long period of access after a longer delay. In Rachlin and Green’s (1972) experiment, pigeons could choose one response to give immediate access to grain for a short time, a different response for longer access, but only after a delay. Choosing the response that led to a delay would result in getting access to food for twice as long as the immediate reinforcer.  Despite this, the pigeons chose the response associated with the smaller reward on 95% of occasions.
+
+We examined some other applications of instrumental conditioning. These included social reinforcement in the classroom, and the use of conditioned reinforcers (tokens) in schools and in the workplace.
+
+================================================================================
+  LECTURE 8
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 8 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 8:  
+Problem solving 
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+• Trial & Error learning vs. Reasoning
+• Navigation as Deductive reasoning
+– Dead reckoning
+• Desert ants
+– Piloting
+• Gerbils and landmark use
+– Cognitive maps
+• Tolman - shortcut and detour
+• Morris - watermaze - novel route
+• Insight as Inductive reasoning
+– Kohler
+• Chimpanzee Sultan - novel behaviour
+– Epstein
+• Pigeons - influence of experience on behaviour
+– Weir et al.
+• New Caledonian Crows - Tool use
+• Analogical reasoning
+– Gillan, Premack, and Woodruff
+Problem solving
+
+--- Slide/Page 3 ---
+Thorndike (1898)  
+Animals solve problems through trial and error
+Deductive Reasoning  
+The conclusion necessarily follows from the premises
+Inductive Reasoning
+The conclusion is likely to follow from the premises
+Problem solving
+
+--- Slide/Page 4 ---
+TIME TO ESCAPE 
+(SEC)
+0
+20
+40
+60
+80
+TRIALS
+1
+3
+5
+7
+9
+11 13 15 17 19
+TIME TO ESCAPE 
+(SEC)
+0
+20
+40
+60
+80
+TRIALS
+1
+3
+5
+7
+9
+11 13 15 17 19
+
+--- Slide/Page 5 ---
+Thorndike’s Law of Effect 
+If a response leads to a satisfying outcome 
+it will be strengthened
+
+--- Slide/Page 6 ---
+Thorndike (1898)  
+Animals solve problems through trial and error
+Deductive Reasoning  
+The conclusion necessarily follows from the premises
+Inductive Reasoning
+The conclusion is likely to follow from the premises
+Problem solving
+
+--- Slide/Page 7 ---
+• Dead Reckoning/Path integration
+Navigation
+
+--- Slide/Page 8 ---
+Wehner and Srinivasan (1981)
+Dead Reckoning or Path integration in desert ants
+
+--- Slide/Page 9 ---
+Wehner and Srinivasan (1981)
+Dead Reckoning or Path integration in desert ants
+Nest 
+Goal
+600 m
+20 m
+
+--- Slide/Page 10 ---
+Wehner and Srinivasan (1981)
+Dead Reckoning or Path integration in desert ants
+Nest 
+Goal
+Release
+600 m
+20 m
+
+--- Slide/Page 11 ---
+Nest 
+Goal
+
+--- Slide/Page 12 ---
+Nest 
+Goal
+
+--- Slide/Page 13 ---
+Nest 
+Goal
+
+--- Slide/Page 15 ---
+Goal
+
+--- Slide/Page 16 ---
+• Dead Reckoning
+• Piloting
+Navigation
+
+--- Slide/Page 17 ---
+Cartwright and Collett (1983)
+Piloting with a single landmark in gerbils
+Landmark
+Buried food
+
+--- Slide/Page 18 ---
+Cartwright and Collett (1983)
+Piloting with a single landmark in gerbils
+
+--- Slide/Page 19 ---
+Cartwright and Collett (1983)
+Piloting with a single landmark in gerbils
+
+--- Slide/Page 20 ---
+• Dead Reckoning
+• Piloting
+• Cognitive maps
+Navigation
+
+--- Slide/Page 21 ---
+Cognitive Maps
+• Tolman, Ritchie and Kalish (1946a)
+
+--- Slide/Page 23 ---
+Cognitive Maps
+• Tolman, Ritchie and Kalish (1946a)
+• Morris (1981)
+
+--- Slide/Page 26 ---
+Cognitive Maps
+• Tolman, Ritchie and Kalish (1946a)
+• Morris (1981)
+• Questions raised by Morris (1981) study
+• How is a cognitive map formed?
+• How is current position on map identified?
+• How is route to goal planned?
+
+--- Slide/Page 27 ---
+Pearce, Good, Jones & McGregor (2004)
+Correct
+Incorrect
+
+--- Slide/Page 28 ---
+• Trial & Error learning vs. Reasoning
+• Navigation as Deductive reasoning
+– Dead reckoning
+• Desert ants
+– Piloting
+• Gerbils and landmark use
+– Cognitive maps
+• Tolman - shortcut and detour
+• Morris - watermaze - novel route
+• Insight as Inductive reasoning
+– Kohler
+• Chimpanzee Sultan - novel behaviour
+– Epstein
+• Pigeons - influence of experience on behaviour
+– Weir et al.
+• New Caledonian Crows - Tool use
+• Analogical reasoning
+– Gillan, Premack, and Woodruff
+Problem solving
+
+--- Slide/Page 29 ---
+Insight
+• Gestalt Psychology
+• Kohler (1925)
+
+--- Slide/Page 32 ---
+Insight
+• Gestalt Psychology
+• Kohler (1925)
+• Epstein et al. (1984)
+
+--- Slide/Page 35 ---
+Weir, Chappell & Kacelnik (2002)
+New Caledonian crows
+
+--- Slide/Page 36 ---
+Weir, Chappell & Kacelnik (2002)
+Betty
+but see also Rutz et al. (2016)
+
+--- Slide/Page 37 ---
+Analogical Reasoning
+• As cat is to kitten so cow is to …………..?
+Gillan, Premack, and Woodruff (1981)
+
+--- Slide/Page 39 ---
+• Animals can solve problems without having to rely 
+on trial-and-error
+• Wide range of species can solve problems
+• Not clear how animals solve problems
+Problem Solving (conclusions)
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 8 notes.doc
+────────────────────────────────────────────────────────────
+
+bjbj
+Lecture 8
+Problem solving
+In Lecture 1 we discussed Thorndike
+s experiments with cats learning to escape puzzle-boxes, and his conclusion that animals learned by trial and error.  Is there any evidence that animals are able to solve problems by reasoning, rather than by trial and error?  We can define reasoning as the ability to combine two or more pieces of information to draw a novel conclusion.  There are two ways that we can divide reasoning
+Deductive and Inductive reasoning.  Deductive reasoning is said to occur when the conclusion is necessitated by the premises.  For instance if the statements
+All ice is cold
+and
+This is ice
+are true, then we can conclude that
+This is cold
+.  Inductive reasoning is when the conclusion is likely from the premises.  The conclusion can be drawn from the presented facts, but is not necessarily true
+the conclusion follows with some degree of probability.  So if
+this ice is cold
+then we can reason by induction that
+all ice is cold
+.  To distinguish reasoning from trial and error learning we can look at the ability of animals to solve problems.
+Navigation is a fundamental problem for many animals.  Some will inevitably find themselves in one location and need to move to another to find food, seek a mate or return to their home.  The most efficient way of navigating would be to plot and then follow a course to a goal.  This is very different from finding your way by trial and error, and we can think of successful navigation as a form of deductive reasoning.
+One way of navigating is to take account of one
+s own body movements.  This is known as dead reckoning, or path integration.  The desert ant, Cataglyphis, has the problem of returning home as quickly as possible, after finding food, to avoid the heat of the Sahara.  Wehner & Srinivasan (1981) showed that the ant uses dead reckoning to achieve efficient navigation, rather than use landmarks or follow a scent trail along its outward path.  They allowed ants to find food a fixed distance and direction from their nests.  When the ants were at the food location the experimenters moved them 600m away.  The ants searched for their nests as if they had not been displaced at all.  To do this the animals would have to have recorded their own body movements with respect to some external directional information, and also to register the distance they had travelled, so they could compute how far it was back to their nests.  We now know that the ants gain their directional sense from the position of the sun in the sky, and, by manipulating the ants
+leg length, that they have a kind of internal pedometer for recording the distance they have travelled.
+Of course, we also know that animals are capable of using landmarks in some circumstances.  Collett and his colleagues trained gerbils to find food a fixed distance and direction from a landmark.  The landmark and goal moved from trial to trial, and the gerbils were released from different points of the arena, so they were unable to locate the food by path integration (dead reckoning).  Even so, when the food was removed for a test trial, the gerbils still searched in the correct location with respect to the landmark.  This ability to plot a course to a hidden goal using landmarks is known as piloting.  Piloting can also take place with multiple landmarks.
+If animals can learn the position of a goal with respect to a number of landmarks then perhaps they can integrate all of those relationships into a cognitive map, on which the animal identifies its own position and uses to plan a course to the goal.  If animals possess a cognitive map then they should firstly be able to select a novel route, or shortcut, to a goal, and secondly make a detour around an obstacle that blocks a previously taken path.  Tolman and his colleagues conducted a number of experiments to try to find evidence of cognitive maps in rats.  All appear to have some flaw, such as rats only selecting a novel route to a goal if the goal had a light above it.  Morris (1981) trained rats to locate a hidden platform in a circular pool of water.  They were always trained to find the platform in the same location, and always released from the same point on the edge of the pool.  One group, the experimental group, then received a test in which they were released from a new point on the edge of the pool.  To navigate efficiently the rats would have to select a novel route to the goal.  Compared with a control group who were tested in the same way as they were trained they did appear to find the platform quickly.  However, nearly all the rats in the experimental group began their path to the goal by heading in the wrong direction.  It is possible that the rats only altered their course once they had explored the pool for a time, and crossed a path they had previously taken during training.  Taken together, Morris
+s and Tolman
+s experiments do not provide good evidence for the existence of cognitive maps in rats.
+When some animals are faced with a new problem they appear to be able to produce novel behaviours to provide a solution.  We can think of this kind of behaviour as evidence for inductive reasoning.  Wolfgang K
+hler was an early objector to Thorndike
+s assertion that animals learned through trial and error.  He showed that chimpanzees were able to use poles and boxes to get closer to fruit hung out of the chimps
+reach.  He said this behaviour was evidence of insight, that the novel behaviour came as a result of a flash of inspiration after they had reasoned out the problem internally.  One problem with K
+hler
+s conclusion is that the chimps were not na
+ve to interacting with boxes and poles.  Perhaps they had had experience of using these items to solve other problems at some earlier time.  Later experiments after the second World War showed that chimps without prior experience of boxes and poles were unable to reproduce K
+hler
+s chimps
+behaviour
+To look at how prior experience influences novel behaviour Epstein, Kirshnit, Lanza & Rubin (1984) conducted an experiment with pigeons.  Some were trained to push a box towards a spot on the edge of an arena to gain a food reward.  They were then trained to stand on a box that was placed underneath a plastic banana and peck at the banana to get food.  In the test trial, the box was moved so it was not underneath the banana.  Birds that had prior experience of pushing the box around were quicker to move the box underneath the banana, so they could stand on it, than birds that had no experience of moving the box.  The fact that the birds produced a novel behaviour without appearing to learn through trial and error could be seen as evidence of insight.  However, without prior experience the birds were not able to complete the task efficiently, so it seems experience might be key to explaining apparently insightful behaviour.
+Another example of apparently insightful behaviour is tool use in the New Caledonian crow.  In the laboratory, one bird, Betty, was given a straight wire to use to retrieve a bucket containing food from the bottom of a cylinder.  After some experience of the wire she spontaneously bent it to make a hook that she used to lift the bucket.  The fact that she had experience of the wire, and was wild-caught, might be important to her production of a novel behaviour, but it is impressive, nevertheless.
+A subset of inductive reasoning is reasoning by analogy.  For example, in the question
+Cat is to kitten as cow is to
+the answer, by analogy with the cat-kitten exemplar, might be calf.  This is on condition that the cat-kitten relationship is thought to be an example of a mother-baby relationship.  It could equally be an example of a big-small relationship, so the answer could plausibly be rabbit.  If animals can be shown to understand relationships of this sort then it
+s possible they have the capability for abstract or symbolic thought, which is a key trait in human intelligence.  Gillan and Premack and their colleagues trained a chimpanzee, Sarah, to use language by pointing to symbols on a board.  She learned that one symbol meant
+same as
+, and was given a symbolic analogical reasoning task.  The example was two symbols that were identical except for their size.  She was then presented with a large triangle with a spot in it, and asked what the correct choice was between a small triangle with a spot in it, and a large triangle with no spot.  She understood, by analogy with the example relationship, that the correct answer (
+same as
+) was the smaller of the two triangles.  It is possible that the experimenters had inadvertently cued Sarah to give the correct answer, since she had never been presented with an analogical reasoning task before, but if the results were to be replicated then this experiment perhaps provides evidence of the most remarkable problem solving skills we have yet seen in an animal.
+[Content_Types].xml
+_rels/.rels
+theme/theme/themeManager.xml
+theme/theme/theme1.xml
+(<fR
+k):b|
+DL-)>
+,hEX
+Lw?%
+gj=H
+9MOJ
+L~Ad
+c%WS
+wae&
+YG4OPQR
+x%j.l)l
+theme/theme/_rels/themeManager.xml.rels
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+Lecture 7
+Problem solving
+Anthony  McGregor
+Normal.dotm
+Anthony McGregor
+Microsoft Office Word
+Cardiff University
+Lecture 7
+Problem solving
+Title
+Microsoft Word 97-2003 Document
+MSWordDoc
+Word.Document.8
+
+================================================================================
+  LECTURE 9
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor Lecture 9 slides.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Lecture 9: 
+Language and communication
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+• Communication in animals
+– Honeybees (Von Frisch)
+– Vervet monkeys (Seyfarth & Cheney)
+• Can animals acquire language?
+– Language is unique to humans - Chomsky, Macphail
+– Hockett’s criteria for language
+– Attempts to train apes to use language
+• Washoe
+• Sarah
+• Kanzi
+• Nim
+– Is it language?
+– Other studies - Parrot, Dolphins
+
+--- Slide/Page 3 ---
+Communication and Language
+Communication occurs when one organism 
+transmits a signal to another organism that
+is capable of responding appropriately to that signal
+
+--- Slide/Page 4 ---
+• Honey Bee
+- Von Frisch (1974)
+Communication and Language
+
+--- Slide/Page 7 ---
+Round Dance
+50-100m of hive
+
+--- Slide/Page 8 ---
+> 100m from hive
+
+--- Slide/Page 11 ---
+• Honey Bee
+- Von Frisch (1974)
+• Vervet Monkey
+- Seyfarth and Cheney (1993)
+Communication and Language
+
+--- Slide/Page 15 ---
+• Snake call
+‣ Look on ground
+• Leopard call
+‣ Run to trees
+• Eagle call
+‣ Look up to sky
+
+--- Slide/Page 16 ---
+Can Animals Acquire Language?
+• Language is unique to humans
+- Chomsky
+- Macphail
+
+--- Slide/Page 17 ---
+What is Language?
+• Hockett’s criteria
+- Discrete units
+- Arbitrary units
+- Semanticity
+- Displacement
+- Productivity through syntax
+
+--- Slide/Page 18 ---
+Attempts to teach language to an ape
+• Furness (1916) female orang-utan
+• Hayes & Hayes (1951) Vicki, a chimp
+• Gardner & Gardner (1969) Washoe
+
+--- Slide/Page 21 ---
+Attempts to teach language to an ape
+• Furness (1916) female orang-utan
+• Hayes & Hayes (1951) Vicki, a chimp
+• Gardner & Gardner (1969) Washoe
+• Premack (1971) Sarah
+
+--- Slide/Page 23 ---
+Attempts to teach language to an ape
+• Furness (1916) female orang-utan
+• Hayes & Hayes (1951) Vicki, a chimp
+• Gardner & Gardner (1969) Washoe
+• Premack (1971) Sarah
+• Rumbaugh & Savage-Rumbaugh
+Lana,  Austin, Sherman, Kanzi
+
+--- Slide/Page 24 ---
+Lana
+Sherman
+
+--- Slide/Page 28 ---
+What is Language?
+• Hockett’s criteria
+- Discrete units
+- Arbitrary units
+- Semanticity
+- Displacement
+- Productivity through syntax
+
+--- Slide/Page 29 ---
+Attempts to teach language to an ape
+• Furness (1916) female orang-utan
+• Hayes & Hayes (1951) Vicki, a chimp
+• Gardner & Gardner (1969) Washoe
+• Premack (1971) Sarah
+• Rumbaugh & Savage-Rumbaugh
+Lana,  Austin, Sherman, Kanzi
+• Terrace (1979) Nim
+
+--- Slide/Page 31 ---
+Can an ape create a sentence?
+• Terrace et al. (1979)  Nim Chimpsky
+- 19,000 utterances
+- 5,235 types
+
+--- Slide/Page 32 ---
+What is Language?
+• Hockett’s criteria
+- Discrete units
+- Arbitrary units
+- Semanticity
+- Displacement
+- Productivity through syntax
+
+--- Slide/Page 33 ---
+Other Studies
+• Pepperberg (1992) Alex, a parrot
+• Herman et al. (1993) dolphins
+• Savage-Rumbaugh (1994)
+-   Kanzi
+
+--- Slide/Page 37 ---
+Rule:
+Indirect 
+object
+Direct 
+object
+Action
+Example:
+Hoop
+Pipe
+Fetch
+Interpretation: Take the pipe to the hoop
+
+--- Slide/Page 38 ---
+Other Studies
+• Pepperberg (1992) Alex, a parrot
+• Herman et al. (1993) dolphins
+• Savage-Rumbaugh (1994)
+-   Kanzi
+
+--- Slide/Page 39 ---
+Lecture 8 - Language and communication
+• Communication in animals
+– Honeybees (Von Frisch)
+– Vervet monkeys (Seyfarth & Cheney)
+• Can animals acquire language?
+– Language is unique to humans - Chomsky, Macphail
+– Hockett’s criteria for language
+– Attempts to train apes to use language
+• Washoe
+• Sarah
+• Kanzi
+• Nim
+– Is it language?
+– Other studies - Parrot, Dolphins
+
+--- Slide/Page 40 ---
+PSYC1071 - Animal learning and cognition summary
+Historical background
+•   Romanes-Lloyd Morgan-Thorndike-Watson-Skinner-Pavlov
+Operant and Pavlovian conditioning
+What is intelligence? How is it distributed?
+Animal Memory
+•  Capacity-Timing-Number-Categories
+•  STM and LTM
+Associative Learning
+•  What determines the nature of the CR?
+•  Conditions of learning - Contiguity, contingency, surprise, attention
+• Human Pavlovian conditioning - counterconditioning, aversion therapy, phobia, desensitisation
+• Human Instrumental conditioning - what’s reinforcing, when to present a reinforcer
+Problem-solving
+•  Trial and error or reasoning?
+•  Navigation - path integration-landmark use-cognitive map
+•  Insight - importance of prior experience
+Communication and language
+•  Honeybees, Vervet monkeys
+•  Can animals acquire language?
+
+────────────────────────────────────────────────────────────
+  LECTURE NOTES: Lecture 9 notes.doc
+────────────────────────────────────────────────────────────
+
+bjbj
+Lecture 9
+Communication and language
+s surprisingly difficult to define what is meant by communication in animals, and various definitions bring with them controversy, For our purposes we can say that communication occurs when one organism transmits a signal to another organism that is capable of responding appropriately to that signal.  It
+s a wide definition and allows us to say that animals from protozoa secreting a chemical that alters the movements of others, to chimpanzees using sounds, facial expressions and smells to influence members of their social group, are communicating.
+One of the most complex methods of communication in animals is by the honey-bee.  Von Frisch, who won a Nobel Prize for his work, showed how bees transmit information about the location of food that they
+ve discovered.  The foraging bee returns to the hive and recruits other workers to search for food in the same location using one of two dances.  The round dance is used when the food source is less that 100m from the hive and encourages random search by the recruited bees.  The waggle dance is performed when the food is more than 100m from the hive.  The bee runs in a straight line waggling its abdomen rapidly, then turns 360o  to the left so it ends where it started. It then makes the straight run again but this time turns to the right.  Altogether this dance forms a figure of eight pattern.  The dance tells the workers both the distance and direction of the food from the hive.  Distance is revealed by the length of the straight run.  Since the rate of waggling is constant, the distance of the food from the hive is also proportional to the number of waggles, and how long it takes to complete the whole figure or eight pattern.  Apparently, Von Frisch discovered how distance is signalled by having researchers watch the dance then run after recruited bees to see how far they went, which was
+rather strenuous and exciting
+.  Direction is signalled in a rather ingenious way.  The dance is performed on the vertical surface of the honeycomb and the direction of the straight run has a fixed angle with respect to vertical.  The angle subtended between vertical and the direction of the straight run is the same as the angle between the sun
+s position in the sky and the food source.
+A rather different form of communication is by the Vervet monkey.  Seyfarth and Cheney described three very specific alarm calls made by Vervet monkeys is response to certain predators.  When a monkey sees a snake its call causes the others in its troop to look around on the ground; when a leopard is spotted all the members of the troop run to the trees in response to the alarm call; and when an eagle is detected, the alarm call causes the others to look up to the sky.  Knowledge of what the calls mean is not innate
+the calls are learned when the monkeys are infants.
+Can animals acquire language?  It is an important question because many authors believe language is unique to humans.  It
+s fair to say that because of language humans are able to live in large and more or less harmonious social groups.  We can teach our children an enormous range of skills using language and it enables us to express our thoughts and feelings.  In a written form, language gives us the advantage of having access to the knowledge of others from the last 2500 years of history.  It
+s not too far-fetched to say that without language our lives would not differ too much from those of other animal species.  Chomsky asserted that because all language conforms to rules of grammar, humans must have a language acquisition device in their minds, that will not be found in animals.  Macphail has argued that there is no evidence for differences in the intelligence of different species, other than between humans and all other animals.  This difference is due entirely to our ability to use language.  It follows from this argument that if animals can acquire language it blurs the distinction between human and animal intelligence.
+Language is a form of communication, but there are specific criteria that must be met for communication to be considered language.  Hockett argued that these criteria should include discrete, arbitrary units, semanticity, displacement and productivity through syntax.  Alarm calls by Vervet monkeys are composed of discrete units, and are arbitrary in that the calls have no direct (unlearned) relationship with what they signal.  They have semanticity, in that each call has a specific meaning. Language allows us to refer to events that are displaced in space or time; the honey-bee dance allows the signaller to communicate information about food that is not present in the hive.  As for productivity through syntax, language is structured through rules of grammar, or syntax.  Words can have many different meanings when put together in different orders.  It is syntax that makes language flexible and varied, but no natural animal communication is structured by rules of grammar as far as we know.
+If it is difficult to find language in animals
+natural behaviour can we train them to acquire language?  Furness and Hayes & Hayes attempted to train an orang-utan and a chimp, respectively, to speak, but these studies had very limited success, partly due to the physical limitations of apes
+ability to produce speech.  Gardener & Gardener attempted to resolve this problem by training a chimpanzee, Washoe, to use American Sign Language (ASL).  By the time she was five years old, after four years of training, she was able to produce 132 words, including verbs, nouns and pronouns.  She could string these words into sentences like
+you tickle me
+and
+open key food
+, an instruction to open the fridge.  One day, while out with her trainer, Washoe saw a swan on a lake, a bird she had never seen before.  The trainer asked,
+What
+s that?
+, and Washoe replied,
+Waterbird
+.  It is possible that this was a demonstration of Washoe using syntax to create a new word.  Later in her life, Washoe adopted a chimp called Loulis.  Loulis learned 22 words from interactions with Washoe, and there is some evidence that Washoe actively trained Loulis to form signs with his hands.
+David Premack and his colleagues trained Sarah, another chimpanzee, to use symbols on cards that each meant a different word.  Sarah learned 130 words including nouns, adjectives and verbs, and had to place the cards in the correct order (syntax) to be rewarded.  Sue Savage-Rumbaugh and her colleagues trained a number of apes including Lana, a common chimp, and Kanzi, a bonobo to press symbols on a board, called a lexigram, to create sentences.
+How successful were these various studies?  In one interaction Premack, using card symbols, asked Sarah what colour chocolate was.  In reply, Sarah chose the symbol for brown.  This demonstrated Sarah
+s use, not only of discrete and arbitrary units (the symbols), but of semanticity and displacement
+she knew the meaning of the symbols and the chocolate was not present.  Many of the researchers who have trained apes to use symbols believe they fulfil all of Hockett
+s criteria for language, including productivity through syntax.  However, Herb Terrace undertook a rigorous review of these experiments and concluded that simpler mechanisms could account for many instances of apparent productivity through syntax.  In Washoe
+s case, simple sentences like
+you tickle me
+that require syntax for the correct meaning, could have been learned through trial and error.  And the instance where she signed
+Waterbird
+could simply be a demonstration of her signing the two things she could see
+the lake and the bird.
+Terrace trained a chimp, Nim, to sign ASL, and recorded over 19000 multiword utterances, of 5235 types over an 18-month period.  Despite this number and variety, Terrace concluded that there was no grammatical structure to what Nim said.  He found that position habits could make certain sentences look grammatically correct.  Nim was in the habit of signing the word
+more
+before the noun in a sentence.  Nim also copied sentences from his trainer, and then altered one or two words, so the new sentence had the correct syntax.  Most importantly, Nim did not elaborate in his sentences.  In children who are learning to speak the mean length of utterances increases with age.  This was not the case with Nim.  However, despite Terrace
+s conclusions there
+s no doubt that, although difficult to show, some apes, like Sarah, are able to produce grammatically correct sentences.
+Finally, one way that some researchers have examined language in animals is by language comprehension studies.  Alex, the parrot, Kanzi, the bonobo, and various dolphins in Louis Herman
+s lab have been shown to comprehend the grammatical rules of instructions.  However, production of language is of equal importance to comprehension, and it must be said that, overall, evidence that animals can acquire and reproduce grammatically correct language is lacking.
+h8PI
+h;BM
+h8PI
+h8PI
+h8PI
+h8PI
+[Content_Types].xml
+_rels/.rels
+theme/theme/themeManager.xml
+theme/theme/theme1.xml
+(<fR
+k):b|
+DL-)>
+,hEX
+Lw?%
+gj=H
+9MOJ
+L~Ad
+c%WS
+wae&
+YG4OPQR
+x%j.l)l
+theme/theme/_rels/themeManager.xml.rels
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+Lecture 8
+Communication and language
+Anthony  McGregor
+Normal.dotm
+Anthony McGregor
+Microsoft Office Word
+Cardiff University
+Lecture 8
+Communication and language
+Title
+Microsoft Word 97-2003 Document
+MSWordDoc
+Word.Document.8
+
+================================================================================
+  LECTURE 10 - Revision
+================================================================================
+
+────────────────────────────────────────────────────────────
+  SLIDES: McGregor lecture 10 revision.pdf
+────────────────────────────────────────────────────────────
+
+--- Slide/Page 1 ---
+PSYC1071: Introduction to Psychology 1
+Animal Learning and Cognition
+Revision lecture 
+Professor Anthony McGregor
+
+--- Slide/Page 2 ---
+PSYC1071 - Animal learning and cognition
+1. Historical background
+• Darwin-Romanes-Lloyd Morgan-Thorndike-Watson
+2.  Skinner and Pavlov
+• Operant and Pavlovian conditioning
+3.  Animal Intelligence
+• Ranking
+• Speed of Learning and associated problems
+• Intelligence as Information Processing
+4.  Animal Memory 1
+• Capacity-Timing-Number-Categories
+5.  Animal memory 2 and Associative Learning 1
+• STM and LTM  
+• Associative structure: S-S or S-R?
+• CR as substitution for US or in preparation for US
+6.  Associative Learning 2
+• Compensatory conditioned response and drug tolerance
+• Conditions of learning - Contiguity, contingency, surprise, 
+attention
+7.  Learning in Humans
+•  Drug use, phobia
+•  Reinforcement 
+8.  Problem-solving
+•  Trial and error or reasoning?
+•  Navigation - path integration-landmark use-cognitive map
+•  Insight - importance of prior experience
+9. Communication and language
+• Honeybees, Vervet monkeys
+•  Can animals acquire language?
+
+--- Slide/Page 3 ---
+Lecture 1 - Historical background
+Why study Animal Cognition?
+•  Natural curiosity
+•  Relevance to other disciplines
+Darwin
+•  Provided mechanism of evolutionary continuity between animals and humans
+Romanes
+•  Pioneered the study of comparative psychology, but relied on anecdotes to find examples 
+of intelligence in animals
+Lloyd Morgan
+•  Dismissed Romanes’ over-vivid interpretations, and argued against anthropomorphism.
+•  Lloyd Morgan’s canon
+Thorndike
+•  First to use experimentation to study animal intelligence
+•  Studied trial and error learning in cats using puzzle-boxes
+•  Law of Effect
+Watson
+• Emphasised the importance of learning in animal and human behaviour
+•  Advocated Behaviourism - study only observable phenomena
+•  Led to advocating the use of animals in studies of intelligence
+
+--- Slide/Page 4 ---
+Lloyd Morgan was against 
+A. Use of animals 
+B. Anthropomorphism 
+C. Darwin 
+D. Innateness
+4
+
+--- Slide/Page 5 ---
+Lecture 2 - Skinner and Pavlov
+Skinner
+•  Added experimentation to Watson’s views
+•  Developed techniques (Response Shaping, Schedules of reinforcement)
+•  Developed technology (Conditioning chambers)
+•  Studied learning in which animal had to make a response to gain a reward
+• This is known as Operant or Instrumental learning
+Pavlov
+•  Studied learning in which a neutral stimulus was paired with a reward
+•   Studied the conditions under which conditioned responding occurred 
+•  This is known as Pavlovian or Classical conditioning
+
+--- Slide/Page 6 ---
+A schedule of reinforcement that involves 
+presenting a reinforcer after the first 
+response when five seconds had elapsed 
+would be classed as 
+A. Fixed interval 
+B. Variable interval 
+C. Fixed ratio 
+D. Variable ratio
+6
+
+--- Slide/Page 7 ---
+Schedules of reinforcement
+Ratio
+Interval
+Fixed
+Variable
+FR
+FI
+VI
+VR
+
+--- Slide/Page 8 ---
+Schedules of reinforcement
+Ratio
+Interval
+Fixed
+Variable
+FR
+FI
+VI
+VR
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+T
+T
+T
+R
+R
+R
+R
+δT
+δT
+δT
+δT
+
+--- Slide/Page 9 ---
+Skinner
+•  Added experimentation to Watson’s views
+•  Developed techniques (Response Shaping, Schedules of reinforcement)
+•  Developed technology (Conditioning chambers)
+•  Studied learning in which animal had to make a response to gain a reward
+• This is known as Operant or Instrumental learning
+Pavlov
+•  Studied learning in which a neutral stimulus was paired with a reward
+•   Studied the conditions under which conditioned responding occurred 
+•  This is known as Pavlovian or Classical conditioning
+Lecture 2 - Skinner and Pavlov
+
+--- Slide/Page 10 ---
+Before conditioning
+Bell
+No Response
+                Food 
+ (unconditioned stimulus, US)
+                 Salivation 
+(unconditioned response UR)
+During conditioning
+Bell
+Food
+                  Bell   
+(conditioned stimulus, CS)
+              Salivation  
+(conditioned response, CR)
+
+--- Slide/Page 11 ---
+Asymptote
+Acquisition 
+CS-US pairings
+Extinction 
+   CS alone
+Spontaneous Recovery 
+           CS alone
+Drops of Saliva
+
+--- Slide/Page 12 ---
+Extinction occurs when 
+A. Asymptote is reached 
+B. The CS-US pairing is learned 
+C. The CS is presented alone 
+D. The US is presented alone
+
+--- Slide/Page 13 ---
+Asymptote
+Acquisition 
+CS-US pairings
+Extinction 
+   CS alone
+Spontaneous Recovery 
+           CS alone
+Drops of Saliva
+
+--- Slide/Page 14 ---
+Asymptote
+Acquisition 
+CS-US pairings
+Extinction 
+   CS alone
+Spontaneous Recovery 
+           CS alone
+Drops of Saliva
+
+--- Slide/Page 15 ---
+400
+800
+1200
+1600
+2000
+Frequency Hz
+Drops of Saliva
+Stimulus generalisation  
+Generalisation gradient 
+Generalisation decrement
+
+--- Slide/Page 16 ---
+How is intelligence distributed and what is it anyway?
+•
+Can we justify artificial ranks?
+•
+Evolution?
+•
+Brain size?
+•
+Can we rank intelligence by speed of learning?
+•
+Perceptual and motivational demands - Bitterman (1975)
+•
+Biological relevance - Garcia & Koelling (1966)
+•
+Intelligence as Information Processing
+Lecture 3 - Animal Intelligence
+
+--- Slide/Page 17 ---
+In keeping with Garcia and Koelling’s findings 
+on biological relevance, which of the following 
+would you expect to be least easy to pair 
+with illness? 
+A. Eating food 
+B. Drinking sucrose 
+C. Drinking saline 
+D. Hearing a tone
+
+--- Slide/Page 18 ---
+Training
+Test
+Volume drunk
+Saline     illness
+saline
+small
+Saline     shock
+saline
+large
+LTW      illness
+LTW
+large
+LTW      shock
+LTW
+small
+Garcia & Koelling (1966)
+LTW = light + tone + water
+Biological Relevance
+
+--- Slide/Page 19 ---
+Capacity
+•
+Food-storing birds - Vander Wall (1982)
+•
+Vaughan & Greene (1984) - pigeons - photographs
+Time
+•
+Periodic timing
+•
+Interval timing - Church & Gibbon (1982) 
+Number
+•
+Rats - Meck & Church (1983)
+•
+Monkeys - Brannon & Terrace (2000)
+•
+5-day old chicks - Regani, Regotin & Vallortigara (2007)
+Categories
+•
+Herrnstein, Loveland & Cable (1976)
+•
+Cerella (1979)
+•
+Feature vs Exemplar theory
+ 
+Lecture 4 - Animal Memory 1
+
+--- Slide/Page 20 ---
+Brannon and Terrace (2000) examined 
+numerosity in rhesus monkeys by 
+A. training them to discriminate tones of different 
+intervals 
+B. training them to touch numbers of items in 
+increasing order on a touch-screen 
+C. training them to discriminate four from sixteen 
+tones 
+D. examining which food cup they would search for in 
+a line of cups
+
+--- Slide/Page 22 ---
+Lecture 4 - Animal Memory 1
+Capacity
+•
+Food-storing birds - Vander Wall (1982)
+•
+Vaughan & Greene (1984) - pigeons - photographs
+Time
+•
+Periodic timing
+•
+Interval timing - Church & Gibbon (1982) 
+Number
+•
+Rats - Meck & Church (1983)
+•
+Monkeys - Brannon & Terrace (2000)
+•
+5-day old chicks - Regani, Regotin & Vallortigara (2007)
+Categories
+•
+Herrnstein, Loveland & Cable (1976)
+•
+Cerella (1979)
+•
+Feature vs Exemplar theory
+
+--- Slide/Page 23 ---
+• Explanations for Categorisation
+• Innate categories
+• Exemplar learning
+• Feature learning
+• Exemplar learning + stimulus generalisation
+
+--- Slide/Page 25 ---
+Short-term memory
+•
+Habituation -  Whitlow (1975), Wagner (1976)
+•
+Radial arm maze - Beatty & Shavalia (1980), Roberts (1981)
+Long-term memory
+•
+Consolidation theories - Electro-convulsive shock
+•
+Retrieval theories - Deweer, Sara & Hars (1980)
+Lecture 5 - Animal Memory 2 and Associative Learning 1
+
+--- Slide/Page 26 ---
+Short-Term Memory
+Habituation  A reduction in responsiveness to a 
+stimulus as a result of its repeated presentation.
+Tone 1
+     
+60 sec
+     Tone 1
+Tone 1
+     
+150 sec
+     Tone 1
+Startle!
+Startle!
+Startle!
+Whitlow (1975) (rabbits)
+plethysmograph
+S1
+S2
+weak startle
+
+--- Slide/Page 27 ---
+In Whitlow (1975), the finding that dishabituation 
+occurred at short S1-S2 intervals if a 2-second 
+distractor was presented between S1 and S2, is 
+evidence of 
+a.    receptor fatigue. 
+b.    retroactive interference. 
+c.     Wagner’s SOP model. 
+d.    effector fatigue
+
+--- Slide/Page 28 ---
+Wagner (1976, 1981)
+Short term store
+Rehearsal
+Long term store
+
+--- Slide/Page 29 ---
+Effector Fatigue
+Effector system - the physiological system responsible for producing a response
+Tone 1       60 sec      
+Tone 2
+Receptor Fatigue
+Receptor system - the physiological system responsible for perceiving the stimulus 
+Dishabituation
+Tone 1
+        30 sec         D           30 sec        
+Tone 1
+Retroactive interference
+
+--- Slide/Page 30 ---
+• Radial Maze Olton (1978)
+-
+Capacity -  at least 8 items
+-
+Duration - up to 4 hours
+-
+Content - landmarks
+• Retroactive interference
+-
+Beatty and Shavalia (1980)
+-
+Roberts (1981)
+Short-Term Memory
+
+--- Slide/Page 31 ---
+• Consolidation
+• Retention
+• Retrieval
+Mechanisms of LTM
+• Consolidation Theories
+- Hebb (1949)
+- Duncan (1949)
+- Electroconvulsive shock (ECS)
+• Retrieval Theories
+- Deweer, Sara, & Hars (1980)
+
+--- Slide/Page 32 ---
+Lecture 5 - Animal Memory 2 and Associative Learning 1
+Pavlovian conditioning
+• What is learned in Pavlovian conditioning
+•
+What determines the nature of the conditioned response?
+• Stimulus substitution
+– Autoshaping
+– Food vs water
+• Preparatory response
+– Conditioned suppression
+Short-term memory
+•
+Habituation -  Whitlow (1975), Wagner (1976)
+•
+Radial arm maze - Beatty & Shavalia (1980), Roberts (1981)
+Long-term memory
+•
+Consolidation theories - Electro-convulsive shock
+•
+Retrieval theories - Deweer, Sara & Hars (1980)
+
+--- Slide/Page 33 ---
+Konorski argued that when animals learn the 
+affective properties of the US, the CR will 
+A. be absent 
+B. substitute the UR 
+C. be preparatory 
+D. will oppose the UR
+
+--- Slide/Page 34 ---
+Preparatory Response
+Salivation during CS that signals US
+• general increase in activity
+Conditioned Suppression
+• decrease in movement
+
+--- Slide/Page 35 ---
+Stimulus Substitution
+Autoshaping
+ITI = 60 s
+CS = 5 s
+US = 5 s
+ITI = 60 s
+ITI = intertrial interval
+
+--- Slide/Page 36 ---
+US  is water
+US is food
+
+--- Slide/Page 37 ---
+Lecture 6 - Associative Learning 2
+•
+Compensatory Responses and Drug tolerance
+– Drug tolerance - Siegel (1977)
+•
+Principle of contiguity, but
+–
+Taste aversion conditioning
+–
+Rescorla’s truly random control (1967)
+–
+Biological Relevance
+•
+Surprise
+–
+Blocking (1969) Kamin
+–
+Rescorla-Wagner (1972)
+•
+Attention
+–
+Latent Inhibition
+•
+Wagner
+•
+Mackintosh
+•
+Pearce-Hall
+
+--- Slide/Page 38 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Injection         
+ 
+Morphine          
+Analgesia
+(CS)
+              
+     (US)
+       
+         (UR)
+Compensatory CRs and Drug 
+tolerance
+CR
+Opposes UR
+
+--- Slide/Page 39 ---
+Siegel (1977) showed that drug tolerance 
+was a conditioned response by 
+A. showing the response generalised to other 
+CSs 
+B. shaping the response 
+C. changing the context 
+D. extinguishing the CR
+
+--- Slide/Page 40 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Group
+ Stage 1
+      Stage 2
+Stage 3
+M-P-M              Morphine
+      Saline              Morphine
+M-Rest-M
+   Morphine
+       Rest
+        Morphine
+Compensatory CRs and Drug tolerance
+
+--- Slide/Page 41 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Compensatory CRs and Drug tolerance
+more tolerance
+less tolerance
+
+--- Slide/Page 42 ---
+Siegel (2005) reviews role of conditioning in drug tolerance
+Siegel (1977) – drug tolerance should be subject to extinction
+Compensatory CRs and Drug tolerance
+more tolerance
+less tolerance
+
+--- Slide/Page 43 ---
+Lecture 6 - Associative Learning 2
+•
+Compensatory Responses and Drug tolerance
+– Drug tolerance - Siegel (1977)
+•
+Principle of contiguity, but
+–
+Taste aversion conditioning
+–
+Rescorla’s truly random control (1967)
+–
+Biological Relevance
+•
+Surprise
+–
+Blocking (1969) Kamin
+–
+Rescorla-Wagner (1972)
+•
+Attention
+–
+Latent Inhibition
+•
+Wagner
+•
+Mackintosh
+•
+Pearce-Hall
+
+--- Slide/Page 44 ---
+No conditioning even with contiguity
+Rescorla (1967) Truly random control
+Standard group Jumbled group
+Conditioned 
+stimulus
+Unconditioned 
+stimulus
+Conditioned 
+response
+Contingency as important as contiguity
+
+--- Slide/Page 45 ---
+Blocking (Kamin, 1969) demonstrates the 
+importance of  
+A. a surprising CS 
+B. the role of attention in learning 
+C. conditioned suppression 
+D. a surprising US
+
+--- Slide/Page 46 ---
+Kamin’s (1969) Blocking Experiment
+Stage 1
+Stage 2
+Test with Light
+Group C
+Light + Noise      shock
+strong CR
+Group E
+Noise      shock
+Light + Noise      shock
+weak cr
+Group S
+Noise      shock
+Light + Noise      SHOCK
+strong CR
+Kamin (1969) Blocking
+
+--- Slide/Page 47 ---
+Lecture 6 - Associative Learning 2
+•
+Compensatory Responses and Drug tolerance
+– Drug tolerance - Siegel (1977)
+•
+Principle of contiguity, but
+–
+Taste aversion conditioning
+–
+Rescorla’s truly random control (1967)
+–
+Biological Relevance
+•
+Surprise
+–
+Blocking (1969) Kamin
+–
+Rescorla-Wagner (1972)
+•
+Attention
+–
+Latent Inhibition
+•
+Wagner
+•
+Mackintosh
+•
+Pearce-Hall
+
+--- Slide/Page 48 ---
+Latent Inhibition
+       STAGE 1
+                     STAGE 2
+Group E        Light    Nothing
+               Light    Food
+Group C
+                                Light    Food
+
+--- Slide/Page 49 ---
+Lecture 7 - Learning in Humans
+•
+Pavlovian conditioning in humans
+-
+Conscious and unconscious effects
+-
+How to treat drug use
+•
+Abstinence; extinction; aversion therapy
+-
+How to treat phobia
+•
+Systematic desensitisation; exposure therapy;  VR therapy
+•
+Instrumental conditioning in humans
+-
+What’s reinforcing?
+-
+When to present a reinforcer?
+-
+Some applications
+•
+Effects of delay
+•
+Social reinforcement in classrooms
+•
+Conditioned reinforcement in children and adults
+
+--- Slide/Page 50 ---
+Counterconditioning is when 
+A. A new CR is established to replace an earlier 
+undesired CR 
+B. An aversion to a US is established by pairing it 
+with lithium chloride 
+C. an undesired response is punished by smacking 
+D. the US is removed
+
+--- Slide/Page 51 ---
+Counterconditioning
+• The extinction of a(n undesirable) response through the 
+establishment of an association between the CS and 
+another (more desirable) response
+•
+A new CR is established by pairing the CS with a more 
+salient US
+
+--- Slide/Page 52 ---
+Time
+CS
+Taste of cigarette
+Emetic drugs
+US2
+UR2
+Nausea
+US1
+UR1
+CR
+Absorption of nicotine
+Pleasurable response
+Conditioned nausea
+Aversion therapy using principles of 
+counterconditioning
+
+--- Slide/Page 53 ---
+What is a phobia?
+Fear
+Reality of Danger
+A
+B
+C
+D
+A:  Office worker
+B:  Oil rig worker
+C:  Bomb disposal expert
+D:  Phobia
+“Irrational” fear of an “objectively harmless” stimulus
+
+--- Slide/Page 54 ---
+Conditioning and phobia
+Sight of drill
+Pain
+First order
+CS
+US
+CR
+Anxiety
+CS
+CS
+Waiting room
+Chair
+Higher order
+• Phobics can’t always recall traumatic experience
+• People become phobic to things they’ve never experienced
+but..
+
+--- Slide/Page 55 ---
+Second-order conditioning
+Group
+Phase 1
+Phase 2
+Test tone
+Pair-Pair
+Light       shock
+Tone        Light
+CR
+Pair-Unpair
+Light       shock
+Tone    /   Light
+cr
+Unpair-Unpair
+Light  /    shock
+Tone    /   Light
+cr
+Rizley & Rescorla (1972)
+
+--- Slide/Page 56 ---
+Conditioning and phobia
+Rachman (1990)
+• Vicarious conditioning
+• Information/Instruction
+Mineka and Cook (1988)
+CS
+US
+UR - Fear
+
+--- Slide/Page 57 ---
+Lecture 7 - Learning in Humans
+•
+Pavlovian conditioning in humans
+-
+Conscious and unconscious effects
+-
+How to treat drug use
+•
+Abstinence; extinction; aversion therapy
+-
+How to treat phobia
+•
+Systematic desensitisation; exposure therapy;  VR therapy
+•
+Instrumental conditioning in humans
+-
+What’s reinforcing?
+-
+When to present a reinforcer?
+-
+Some applications
+•
+Effects of delay
+•
+Social reinforcement in classrooms
+•
+Conditioned reinforcement in children and adults
+
+--- Slide/Page 58 ---
+Skinner and instrumental conditioning
+•
+Reinforcers - increase tendency to repeat target 
+behaviour
+-
+Positive reinforcers
+-
+Negative reinforcers
+•
+Punishment - decrease tendency to repeat target 
+behaviour
+
+--- Slide/Page 59 ---
+Butler (1954)
+• Access to blue or yellow doors - blue gave 
+access to view of room for 30s
+• 1 trial per min
+• Sensory reinforcement
+• Montgomery (1954) - rats in complex mazes
+• Jones, Wilkinson, & Braden (1961) - humans with 
+unpredictable lights
+ Primary reinforcers
+What is reinforcing?
+
+--- Slide/Page 60 ---
+According to the Premack Principle, which of the 
+following would you expect to be effective in 
+improving behaviour 
+A. A time out procedure 
+B. A sticker chart that can be exchanged for 
+reward 
+C. Detention 
+D. The promise of 10 minutes of Disney+
+
+--- Slide/Page 61 ---
+Premack principle (1965, 1971)
+• Homme et al. (1963)
+• Preferred activities can act as reinforcers for less preferred 
+activities
+• Preference measured by likelihood to engage in particular 
+behaviour
+What is reinforcing?
+
+--- Slide/Page 62 ---
+Lecture 8 - Problem solving
+•
+Trial & Error learning vs. Reasoning
+•
+Navigation
+– Dead reckoning
+• Desert ants
+– Piloting
+• Gerbils and landmark use
+– Cognitive maps
+• Tolman - shortcut and detour
+• Morris - watermaze - novel route
+•
+Insight
+– Kohler
+• Chimpanzee Sultan - novel behaviour
+– Epstein
+• Pigeons - prior experience influences behaviour
+– Weir et al.
+• New Caledonian Crows - Tool use
+•
+Analogical reasoning
+– Gillan & Premack
+• Chimpanzee, Sarah
+
+--- Slide/Page 63 ---
+Inductive reasoning is when 
+A. The conclusions are necessitated by the 
+premises 
+B. The conclusions are likely to follow from the 
+premises 
+C. The premises are likely to follow the 
+conclusions 
+D. Animals learn by trial-and-error
+
+--- Slide/Page 64 ---
+Problem Solving
+Thorndike (1898)  
+Animals solve problems through trial  and error
+Deductive Reasoning  
+The conclusion necessarily follows from the premises
+Inductive Reasoning
+The conclusion is likely to follow from the premises
+
+--- Slide/Page 65 ---
+Wehner and Srinivasan (1981)
+Dead Reckoning or Path integration in desert ants
+
+--- Slide/Page 66 ---
+Cartwright and Collett (1983)
+Piloting with a single landmark in gerbils
+Landmark
+Buried food
+
+--- Slide/Page 67 ---
+Possessing a cognitive map should 
+A. alter learning about the distance and 
+direction of a goal from a landmark 
+B. make learning quicker 
+C. not influence path integration 
+D. allow an animal to navigate novel short cuts
+
+--- Slide/Page 69 ---
+Lecture 7 - Problem solving
+•
+Trial & Error learning vs. Reasoning
+•
+Navigation
+– Dead reckoning
+• Desert ants
+– Piloting
+• Gerbils and landmark use
+– Cognitive maps
+• Tolman - shortcut and detour
+• Morris - watermaze - novel route
+•
+Insight
+– Kohler
+• Chimpanzee Sultan - novel behaviour
+– Epstein
+• Pigeons - prior experience influences behaviour
+– Weir et al.
+• New Caledonian Crows - Tool use
+•
+Analogical reasoning
+– Gillan & Premack
+• Chimpanzee, Sarah
+
+--- Slide/Page 71 ---
+Lecture 8 - Language and communication
+•
+Communication in animals
+– Honeybees (Von Frisch)
+– Vervet monkeys (Seyfarth & Cheney)
+•
+Can animals acquire language?
+– Language is unique to humans - Chomsky, Macphail
+– Hockett’s criteria for language
+– Attempts to train apes to use language
+• Washoe
+• Sarah
+• Kanzi
+• Nim
+– Is it language?
+– Other studies - Parrot, Dolphins
+
+--- Slide/Page 72 ---
+Which of Hockett’s criteria do Vervet 
+monkeys not display? 
+A. Discrete units 
+B. Arbitrary units 
+C. Semanticity 
+D. Displacement
+
+--- Slide/Page 73 ---
+What is Language?
+• Hockett’s criteria
+- Discrete units
+- Arbitrary units
+- Semanticity
+- Displacement
+- Productivity through syntax
+
+--- Slide/Page 74 ---
+PSYC1071 - Animal learning and cognition
+1. Historical background
+• Darwin-Romanes-Lloyd Morgan-Thorndike-Watson
+2.  Skinner and Pavlov
+• Operant and Pavlovian conditioning
+3.  Animal Intelligence
+• Ranking
+• Speed of Learning and associated problems
+• Intelligence as Information Processing
+4.  Animal Memory 1
+• Capacity-Timing-Number-Categories
+5.  Animal memory 2 and Associative Learning 1
+• STM and LTM  
+• Associative structure: S-S or S-R?
+• CR as substitution for US or in preparation for US
+6.  Associative Learning 2
+• Compensatory conditioned response and drug tolerance
+• Conditions of learning - Contiguity, contingency, surprise, 
+attention
+7.  Learning in Humans
+•  Drug use, phobia
+•  Reinforcement 
+8.  Problem-solving
+•  Trial and error or reasoning?
+•  Navigation - path integration-landmark use-cognitive map
+•  Insight - importance of prior experience
+9. Communication and language
+• Honeybees, Vervet monkeys
+•  Can animals acquire language?
+
+--- Slide/Page 75 ---
+PSYC3851: Learning and Memory: theories, 
+neural bases and clinical applications 
+Professor David Sanderson
+Professor Anthony McGregor
+Proud rats
+Cute mice
+Professor Colin Lever
+Dr Jasmin Strickland
+
+--- Slide/Page 76 ---
+Lloyd Morgan was against 
+A. Use of animals 
+B. Anthropomorphism 
+C. Darwin 
+D. Innateness
+76
+
+--- Slide/Page 77 ---
+A schedule of reinforcement that involves 
+presenting a reinforcer after every five 
+responses would be classed as 
+A. Fixed interval 
+B. Variable interval 
+C. Fixed ratio 
+D. Variable ratio
+77
+
+--- Slide/Page 78 ---
+Extinction occurs when 
+A. Asymptote is reached 
+B. The CS-US pairing is learned 
+C. The CS is presented alone 
+D. The US is presented alone
+
+--- Slide/Page 79 ---
+In keeping with Garcia and Koelling’s findings 
+on biological relevance, which of the following 
+would you expect to be least easy to pair 
+with illness? 
+A. Eating food 
+B. Drinking sucrose 
+C. Drinking saline 
+D. Hearing a tone
+
+--- Slide/Page 80 ---
+Brannon and Terrace (2000) examined 
+numerosity in rhesus monkeys by 
+A. training them to discriminate tones of different 
+intervals 
+B. training them to touch numbers of items in 
+increasing order on a touch-screen 
+C. training them to discriminate four from sixteen 
+tones 
+D. examining which food cup they would search for in 
+a line of cups
+
+--- Slide/Page 81 ---
+Konorski argued that when animals learn the 
+affective properties of the US, the CR will 
+A. be absent 
+B. substitute the UR 
+C. be preparatory 
+D. will oppose the UR
+
+--- Slide/Page 82 ---
+In Whitlow (1975), the finding that dishabituation 
+occurred at short S1-S2 intervals if a 2-second 
+distractor was presented between S1 and S2, is 
+evidence of 
+a.    receptor fatigue. 
+b.    retroactive interference. 
+c.     Wagner’s SOP model. 
+d.    effector fatigue
+
+--- Slide/Page 83 ---
+Siegel (1977) showed that drug tolerance 
+was a conditioned response by 
+A. showing the response generalised to other 
+CSs 
+B. shaping the response 
+C. changing the context 
+D. extinguishing the CR
+
+--- Slide/Page 84 ---
+Blocking (Kamin, 1969) demonstrates the 
+importance of  
+A. a surprising CS 
+B. the role of attention in learning 
+C. conditioned suppression 
+D. a surprising US
+
+--- Slide/Page 85 ---
+Counterconditioning is when 
+A. A new CR is established to replace an earlier 
+undesired CR 
+B. An aversion to a US is established by pairing it 
+with lithium chloride 
+C. an undesired response is punished by smacking 
+D. the US is removed
+
+--- Slide/Page 86 ---
+According to the Premack Principle, which of the 
+following would you expect to be effective in 
+improving behaviour 
+A. A time out procedure 
+B. A sticker chart that can be exchanged for 
+reward 
+C. Detention 
+D. The promise of 10 minutes of Disney+
+
+--- Slide/Page 87 ---
+Inductive reasoning is when 
+A. The conclusions are necessitated by the 
+premises 
+B. The conclusions are likely to follow from the 
+premises 
+C. The premises are likely to follow the 
+conclusions 
+D. Animals learn by trial-and-error
+
+--- Slide/Page 88 ---
+Possessing a cognitive map should 
+A. alter learning about the distance and 
+direction of a goal from a landmark 
+B. make learning quicker 
+C. not influence path integration 
+D. allow an animal to navigate novel short cuts
+
+--- Slide/Page 89 ---
+Which of Hockett’s criteria do Vervet 
+monkeys not display? 
+A. Discrete units 
+B. Arbitrary units 
+C. Semanticity 
+D. Displacement
